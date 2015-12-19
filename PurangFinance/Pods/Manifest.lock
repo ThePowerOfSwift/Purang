@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (2.5.3):
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
+  - AFNetworking/NSURLConnection (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.3)
+  - AFNetworking/Security (2.5.3)
+  - AFNetworking/Serialization (2.5.3)
+  - AFNetworking/UIKit (2.5.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (3.2.3)
+  - JXBAdPageView (1.0)
+  - MJRefresh (1.4.6)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - IQKeyboardManager
+  - JXBAdPageView
+  - MJRefresh
+  - Reachability
+
+SPEC CHECKSUMS:
+  AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
+  IQKeyboardManager: 6ca5c54e3776eb54af4c7caf515833f3cd761d59
+  JXBAdPageView: 1aeb885e8af4bc4f6b3413d2a2c56e3af1c72dcc
+  MJRefresh: 2eaa3fd8f67fbb86497840fb0167446f7eb61dc7
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+COCOAPODS: 0.36.4

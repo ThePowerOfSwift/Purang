@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C82660B9-8441-4CC0-A582-11A386E6BECA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PURANG</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74514802-8251-48ae-9260-786fc18d9ed3++2011</key>
+		<string>http://msf.purang.com:8088/svn/PBQ/04source/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PurangFinance/PurangFinance/PURANG.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74514802-8251-48ae-9260-786fc18d9ed3++2011</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>74514802-8251-48ae-9260-786fc18d9ed3++2011</key>
+		<string>http://msf.purang.com:8088/svn/PBQ</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://msf.purang.com:8088/svn/PBQ/04source/ios/PurangFinance/PurangFinance/PURANG.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74514802-8251-48ae-9260-786fc18d9ed3++2011</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74514802-8251-48ae-9260-786fc18d9ed3++2011</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

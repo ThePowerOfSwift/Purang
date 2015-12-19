@@ -1,0 +1,312 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "04R-1g-QvB"; */
+"04R-1g-QvB.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请输入票面金额"; ObjectID = "0TV-rF-oVE"; */
+"0TV-rF-oVE.placeholder" = "请输入票面金额";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1ez-Xr-raK"; */
+"1ez-Xr-raK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "1rf-Mo-DBn"; */
+"1rf-Mo-DBn.normalTitle" = "获取验证码";
+
+/* Class = "UILabel"; text = "该票已被公示催告，请注意申报权利!"; ObjectID = "1vY-w4-Qah"; */
+"1vY-w4-Qah.text" = "该票已被公示催告，请注意申报权利!";
+
+/* Class = "UISearchBar"; placeholder = "请输入城市名"; ObjectID = "299-hS-HjW"; */
+"299-hS-HjW.placeholder" = "请输入城市名";
+
+/* Class = "UIViewController"; title = "贴现"; ObjectID = "2ah-4x-k8B"; */
+"2ah-4x-k8B.title" = "贴现";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37W-fR-erH"; */
+"37W-fR-erH.text" = "Label";
+
+/* Class = "UILabel"; text = "贴  现  日"; ObjectID = "3pl-WJ-CLI"; */
+"3pl-WJ-CLI.text" = "贴  现  日";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4nX-4x-duT"; */
+"4nX-4x-duT.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请输入密码(6-16位字符)"; ObjectID = "5Oc-fC-c8E"; */
+"5Oc-fC-c8E.placeholder" = "请输入密码(6-16位字符)";
+
+/* Class = "UITextField"; placeholder = "请输入或识别16位汇票票号"; ObjectID = "62R-FY-Dge"; */
+"62R-FY-Dge.placeholder" = "请输入或识别16位汇票票号";
+
+/* Class = "UINavigationItem"; title = "企业认证"; ObjectID = "7EI-6z-f5E"; */
+"7EI-6z-f5E.title" = "企业认证";
+
+/* Class = "UIButton"; normalTitle = "使用这张"; ObjectID = "7ec-vw-kvy"; */
+"7ec-vw-kvy.normalTitle" = "使用这张";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Mg-A5-eOv"; */
+"8Mg-A5-eOv.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请输入密码(6-16位字符)"; ObjectID = "8ud-J3-12S"; */
+"8ud-J3-12S.placeholder" = "请输入密码(6-16位字符)";
+
+/* Class = "UINavigationItem"; title = "个人中心"; ObjectID = "9ZU-HU-6Rm"; */
+"9ZU-HU-6Rm.title" = "个人中心";
+
+/* Class = "UINavigationItem"; title = "我要贴现"; ObjectID = "Abg-kc-SbR"; */
+"Abg-kc-SbR.title" = "我要贴现";
+
+/* Class = "UILabel"; text = "万"; ObjectID = "B2Q-vw-7oI"; */
+"B2Q-vw-7oI.text" = "万";
+
+/* Class = "UIButton"; normalTitle = "重新拍照"; ObjectID = "BHn-GC-Vql"; */
+"BHn-GC-Vql.normalTitle" = "重新拍照";
+
+/* Class = "UIButton"; normalTitle = "使用闪光灯"; ObjectID = "BWb-NH-jA4"; */
+"BWb-NH-jA4.normalTitle" = "使用闪光灯";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Btc-cH-Oig"; */
+"Btc-cH-Oig.text" = "Label";
+
+/* Class = "UIViewController"; title = "相机"; ObjectID = "Byh-VU-UEm"; */
+"Byh-VU-UEm.title" = "相机";
+
+/* Class = "UILabel"; text = "手续办理中"; ObjectID = "D7y-z2-pMm"; */
+"D7y-z2-pMm.text" = "手续办理中";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "DNA-7X-MKc"; */
+"DNA-7X-MKc.placeholder" = "请输入手机号";
+
+/* Class = "UITextView"; text = "提示：\n\n1、公示催告数据来源于人民法院院报、其他省市法制报纸及全国范围内的其他报纸；\n\n2、免责声明：本应用只在最大化帮助用户识别汇票业务的风险，因此应用未收录相关公示催告数据导致的风险，与本应用无关。"; ObjectID = "Du5-GL-aza"; */
+"Du5-GL-aza.text" = "提示：\n\n1、公示催告数据来源于人民法院院报、其他省市法制报纸及全国范围内的其他报纸；\n\n2、免责声明：本应用只在最大化帮助用户识别汇票业务的风险，因此应用未收录相关公示催告数据导致的风险，与本应用无关。";
+
+/* Class = "UIButton"; normalTitle = "已完成"; ObjectID = "EBT-GW-oqC"; */
+"EBT-GW-oqC.normalTitle" = "已完成";
+
+/* Class = "UITextField"; placeholder = "请输入"; ObjectID = "Ema-Vs-eoq"; */
+"Ema-Vs-eoq.placeholder" = "请输入";
+
+/* Class = "UIButton"; normalTitle = "认证"; ObjectID = "FEK-ga-02N"; */
+"FEK-ga-02N.normalTitle" = "认证";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FKU-gC-xSS"; */
+"FKU-gC-xSS.text" = "Label";
+
+/* Class = "UILabel"; text = "票面金额"; ObjectID = "Fso-Bw-uGt"; */
+"Fso-Bw-uGt.text" = "票面金额";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GWv-N4-Pok"; */
+"GWv-N4-Pok.text" = "Label";
+
+/* Class = "UILabel"; text = "计息天数"; ObjectID = "Hjf-L5-Q1n"; */
+"Hjf-L5-Q1n.text" = "计息天数";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hp4-vp-YIL"; */
+"Hp4-vp-YIL.text" = "Label";
+
+/* Class = "UILabel"; text = "利       率"; ObjectID = "I6r-8c-sOX"; */
+"I6r-8c-sOX.text" = "利       率";
+
+/* Class = "UILabel"; text = "营业执照"; ObjectID = "Ir7-Wl-zRq"; */
+"Ir7-Wl-zRq.text" = "营业执照";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "JCs-XC-ZWD"; */
+"JCs-XC-ZWD.text" = "登录";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JER-sn-Gqg"; */
+"JER-sn-Gqg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "Jfl-L8-5lT"; */
+"Jfl-L8-5lT.placeholder" = "请输入验证码";
+
+/* Class = "UINavigationItem"; title = "普兰金融"; ObjectID = "KHx-PQ-ESN"; */
+"KHx-PQ-ESN.title" = "普兰金融";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "KK0-dc-ius"; */
+"KK0-dc-ius.placeholder" = "请输入手机号";
+
+/* Class = "UIViewController"; title = "图片浏览"; ObjectID = "Kfa-eg-eJe"; */
+"Kfa-eg-eJe.title" = "图片浏览";
+
+/* Class = "UITextField"; placeholder = "请输入利率"; ObjectID = "Lgh-7w-slU"; */
+"Lgh-7w-slU.placeholder" = "请输入利率";
+
+/* Class = "UILabel"; text = "到  期  日"; ObjectID = "LnH-eR-Rij"; */
+"LnH-eR-Rij.text" = "到  期  日";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "MJt-ZK-wou"; */
+"MJt-ZK-wou.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "PRb-LL-xgP"; */
+"PRb-LL-xgP.text" = "100";
+
+/* Class = "UINavigationItem"; title = "注册"; ObjectID = "Q4D-Xk-YtH"; */
+"Q4D-Xk-YtH.title" = "注册";
+
+/* Class = "UINavigationItem"; title = "公告票据"; ObjectID = "QSc-K6-dxz"; */
+"QSc-K6-dxz.title" = "公告票据";
+
+/* Class = "UIButton"; normalTitle = "自动闪光灯"; ObjectID = "QU1-NC-rsd"; */
+"QU1-NC-rsd.normalTitle" = "自动闪光灯";
+
+/* Class = "UINavigationItem"; title = "登录"; ObjectID = "QUM-Uz-Fiv"; */
+"QUM-Uz-Fiv.title" = "登录";
+
+/* Class = "UIButton"; normalTitle = "提交"; ObjectID = "Qyh-oo-FHM"; */
+"Qyh-oo-FHM.normalTitle" = "提交";
+
+/* Class = "UIButton"; normalTitle = "不使用闪关灯"; ObjectID = "RHy-DS-ofV"; */
+"RHy-DS-ofV.normalTitle" = "不使用闪关灯";
+
+/* Class = "UIViewController"; title = "公告票据详情"; ObjectID = "Rcn-GK-VBe"; */
+"Rcn-GK-VBe.title" = "公告票据详情";
+
+/* Class = "UITextField"; placeholder = "请输入调整天数"; ObjectID = "Rye-2s-toR"; */
+"Rye-2s-toR.placeholder" = "请输入调整天数";
+
+/* Class = "UILabel"; text = "万"; ObjectID = "Saz-oX-4MK"; */
+"Saz-oX-4MK.text" = "万";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "Sne-GC-mTc"; */
+"Sne-GC-mTc.text" = "天";
+
+/* Class = "UIViewController"; title = "我要贴现"; ObjectID = "TFB-hZ-msl"; */
+"TFB-hZ-msl.title" = "我要贴现";
+
+/* Class = "UIButton"; normalTitle = "新用户注册"; ObjectID = "Tgy-Tw-b4m"; */
+"Tgy-Tw-b4m.normalTitle" = "新用户注册";
+
+/* Class = "UIViewController"; title = "贴现计算器"; ObjectID = "Tuc-zB-h3y"; */
+"Tuc-zB-h3y.title" = "贴现计算器";
+
+/* Class = "UILabel"; text = "6.35%"; ObjectID = "U6k-on-9wU"; */
+"U6k-on-9wU.text" = "6.35%";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "UL9-Mb-nye"; */
+"UL9-Mb-nye.normalTitle" = "退出登录";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "V8N-BX-QFT"; */
+"V8N-BX-QFT.normalTitle" = "获取验证码";
+
+/* Class = "UITextField"; placeholder = "请再次输入密码(6-16位字符)"; ObjectID = "VJW-Js-by5"; */
+"VJW-Js-by5.placeholder" = "请再次输入密码(6-16位字符)";
+
+/* Class = "UILabel"; text = "工商银行上海分行"; ObjectID = "WWL-c2-8IH"; */
+"WWL-c2-8IH.text" = "工商银行上海分行";
+
+/* Class = "UITextField"; placeholder = "请输入手机号"; ObjectID = "X57-OD-cp9"; */
+"X57-OD-cp9.placeholder" = "请输入手机号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XF3-os-A4c"; */
+"XF3-os-A4c.text" = "Label";
+
+/* Class = "UIViewController"; title = "关于我们"; ObjectID = "Xj8-C1-41q"; */
+"Xj8-C1-41q.title" = "关于我们";
+
+/* Class = "UIButton"; normalTitle = "自动处理"; ObjectID = "YE2-Wr-NkN"; */
+"YE2-Wr-NkN.normalTitle" = "自动处理";
+
+/* Class = "UIViewController"; title = "我的账单"; ObjectID = "Za5-dF-lP7"; */
+"Za5-dF-lP7.title" = "我的账单";
+
+/* Class = "UIViewController"; title = "公告票据"; ObjectID = "aYc-1h-6lT"; */
+"aYc-1h-6lT.title" = "公告票据";
+
+/* Class = "UIButton"; normalTitle = "全部"; ObjectID = "aah-aS-uaq"; */
+"aah-aS-uaq.normalTitle" = "全部";
+
+/* Class = "UIViewController"; title = "计算结果"; ObjectID = "bi0-xu-kAD"; */
+"bi0-xu-kAD.title" = "计算结果";
+
+/* Class = "UILabel"; text = "‰"; ObjectID = "cIX-gG-0gi"; */
+"cIX-gG-0gi.text" = "‰";
+
+/* Class = "UINavigationItem"; title = "贴现计算器"; ObjectID = "d4C-ma-8st"; */
+"d4C-ma-8st.title" = "贴现计算器";
+
+/* Class = "UIViewController"; title = "个人中心"; ObjectID = "daJ-vc-cN6"; */
+"daJ-vc-cN6.title" = "个人中心";
+
+/* Class = "UIButton"; normalTitle = "重置密码"; ObjectID = "fDN-cg-9uO"; */
+"fDN-cg-9uO.normalTitle" = "重置密码";
+
+/* Class = "UILabel"; text = "万"; ObjectID = "gjE-tm-ubR"; */
+"gjE-tm-ubR.text" = "万";
+
+/* Class = "UINavigationItem"; title = "计算结果"; ObjectID = "gmU-Vs-gPa"; */
+"gmU-Vs-gPa.title" = "计算结果";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h90-gJ-XcN"; */
+"h90-gJ-XcN.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "公告票据"; ObjectID = "hTW-Nm-hkf"; */
+"hTW-Nm-hkf.title" = "公告票据";
+
+/* Class = "UINavigationItem"; title = "关于我们"; ObjectID = "hfy-dc-Tvx"; */
+"hfy-dc-Tvx.title" = "关于我们";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l17-ly-2Ym"; */
+"l17-ly-2Ym.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "我的账单"; ObjectID = "mTG-0M-rne"; */
+"mTG-0M-rne.title" = "我的账单";
+
+/* Class = "UIButton"; normalTitle = "分类"; ObjectID = "nWB-oc-4QD"; */
+"nWB-oc-4QD.normalTitle" = "分类";
+
+/* Class = "UINavigationItem"; title = "选择票面"; ObjectID = "nxF-L4-Xq9"; */
+"nxF-L4-Xq9.title" = "选择票面";
+
+/* Class = "UILabel"; text = "185天"; ObjectID = "ooK-wO-q7L"; */
+"ooK-wO-q7L.text" = "185天";
+
+/* Class = "UILabel"; text = "调整天数"; ObjectID = "osc-H7-RCx"; */
+"osc-H7-RCx.text" = "调整天数";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "pav-7J-dAn"; */
+"pav-7J-dAn.text" = "天";
+
+/* Class = "UITextField"; placeholder = "请输入验证码"; ObjectID = "qOq-Df-ij1"; */
+"qOq-Df-ij1.placeholder" = "请输入验证码";
+
+/* Class = "UIButton"; normalTitle = "计算"; ObjectID = "qTU-T1-cQL"; */
+"qTU-T1-cQL.normalTitle" = "计算";
+
+/* Class = "UITextField"; placeholder = "请再次输入密码(6-16位字符)"; ObjectID = "qbg-tc-R8O"; */
+"qbg-tc-R8O.placeholder" = "请再次输入密码(6-16位字符)";
+
+/* Class = "UILabel"; text = "贴现日:2015-04-14"; ObjectID = "qyg-5S-2j7"; */
+"qyg-5S-2j7.text" = "贴现日:2015-04-14";
+
+/* Class = "UITextView"; text = "普兰票据"; ObjectID = "r1g-36-LPd"; */
+"r1g-36-LPd.text" = "普兰票据";
+
+/* Class = "UIViewController"; title = "选择城市"; ObjectID = "r4z-SK-vxw"; */
+"r4z-SK-vxw.title" = "选择城市";
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "red-89-ixF"; */
+"red-89-ixF.normalTitle" = "查询";
+
+/* Class = "UIViewController"; title = "企业认证"; ObjectID = "rjZ-j2-88r"; */
+"rjZ-j2-88r.title" = "企业认证";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "tO3-gL-1Mo"; */
+"tO3-gL-1Mo.normalTitle" = "忘记密码";
+
+/* Class = "UINavigationItem"; title = "选择城市"; ObjectID = "uHR-px-qjf"; */
+"uHR-px-qjf.title" = "选择城市";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "vOE-F3-wfh"; */
+"vOE-F3-wfh.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "进行中"; ObjectID = "vne-7p-5oL"; */
+"vne-7p-5oL.normalTitle" = "进行中";
+
+/* Class = "UINavigationItem"; title = "重置密码"; ObjectID = "voa-Cb-zw3"; */
+"voa-Cb-zw3.title" = "重置密码";
+
+/* Class = "UILabel"; text = "300.854万"; ObjectID = "vq4-vp-ELz"; */
+"vq4-vp-ELz.text" = "300.854万";
+
+/* Class = "UIViewController"; title = "照片详情"; ObjectID = "xJj-B0-3xF"; */
+"xJj-B0-3xF.title" = "照片详情";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "zsF-lb-Sdy"; */
+"zsF-lb-Sdy.normalTitle" = "注册";

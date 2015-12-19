@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch750.png" translatesAutoresizingMaskIntoConstraints="NO" id="PPv-zO-v9X">
+                    <rect key="frame" x="115" y="70" width="250" height="180"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="250" id="1WD-Yl-MXM"/>
+                        <constraint firstAttribute="height" constant="180" id="JaT-jX-AFX"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="上海普兰金融科技有限公司版权所有" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lxZ-w7-xLf">
+                    <rect key="frame" x="104" y="429" width="272" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.47843137254901963" green="0.47843137254901963" blue="0.47843137254901963" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.92156862745098034" green="0.92941176470588238" blue="0.95686274509803926" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="lxZ-w7-xLf" secondAttribute="bottom" constant="30" id="7iT-Ng-g5k"/>
+                <constraint firstAttribute="centerY" secondItem="lxZ-w7-xLf" secondAttribute="centerY" id="F9x-iD-XZ1"/>
+                <constraint firstAttribute="centerX" secondItem="PPv-zO-v9X" secondAttribute="centerX" id="NS3-jG-9mV"/>
+                <constraint firstAttribute="centerX" secondItem="lxZ-w7-xLf" secondAttribute="centerX" id="jkp-mh-SBH"/>
+                <constraint firstAttribute="centerY" secondItem="PPv-zO-v9X" secondAttribute="centerY" constant="80" id="rHy-In-DLR"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="F9x-iD-XZ1"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="launch750.png" width="219" height="143"/>
+    </resources>
+</document>

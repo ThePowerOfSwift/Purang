@@ -1,0 +1,5574 @@
+{
+      "A":[{
+        "code": "513200",
+        "name": "阿坝藏族羌族自治州",
+        "fullname": "阿坝藏族羌族自治州",
+        "quanpin": "abazangzuqiangzuzizh",
+        "pinyin": "ABZZQZZZZ"
+      },
+      {
+        "code": "152202",
+        "name": "阿尔山",
+        "fullname": "阿尔山市",
+        "quanpin": "aershanshi",
+        "pinyin": "AESS"
+      },
+      {
+        "code": "652901",
+        "name": "阿克苏",
+        "fullname": "阿克苏市",
+        "quanpin": "akesushi",
+        "pinyin": "AKSS"
+      },
+      {
+        "code": "659002",
+        "name": "阿拉尔",
+        "fullname": "阿拉尔市",
+        "quanpin": "alaershi",
+        "pinyin": "ALES"
+      },
+      {
+        "code": "152900",
+        "name": "阿拉善盟",
+        "fullname": "阿拉善盟",
+        "quanpin": "alashanmeng",
+        "pinyin": "ALSM"
+      },
+      {
+        "code": "654301",
+        "name": "阿勒泰",
+        "fullname": "阿勒泰市",
+        "quanpin": "aletaishi",
+        "pinyin": "ALTS"
+      },
+      {
+        "code": "231281",
+        "name": "安达",
+        "fullname": "安达市",
+        "quanpin": "andashi",
+        "pinyin": "ADS"
+      },
+      {
+        "code": "130683",
+        "name": "安国",
+        "fullname": "安国市",
+        "quanpin": "anguoshi",
+        "pinyin": "AGS"
+      },
+      {
+        "code": "610900",
+        "name": "安康",
+        "fullname": "安康市",
+        "quanpin": "ankangshi",
+        "pinyin": "AKS"
+      },
+      {
+        "code": "420982",
+        "name": "安陆",
+        "fullname": "安陆市",
+        "quanpin": "anlushi",
+        "pinyin": "ALS"
+      },
+      {
+        "code": "530181",
+        "name": "安宁",
+        "fullname": "安宁市",
+        "quanpin": "anningshi",
+        "pinyin": "ANS"
+      },
+      {
+        "code": "340800",
+        "name": "安庆",
+        "fullname": "安庆市",
+        "quanpin": "anqingshi",
+        "pinyin": "AQS"
+      },
+      {
+        "code": "370784",
+        "name": "安丘",
+        "fullname": "安丘市",
+        "quanpin": "anqiushi",
+        "pinyin": "AQS"
+      },
+      {
+        "code": "210300",
+        "name": "鞍山",
+        "fullname": "鞍山市",
+        "quanpin": "anshanshi",
+        "pinyin": "ASS"
+      },
+      {
+        "code": "520400",
+        "name": "安顺",
+        "fullname": "安顺市",
+        "quanpin": "anshunshi",
+        "pinyin": "ASS"
+      },
+      {
+        "code": "410500",
+        "name": "安阳",
+        "fullname": "安阳市",
+        "quanpin": "anyangshi",
+        "pinyin": "AYS"
+      },
+      {
+        "code": "653001",
+        "name": "阿图什",
+        "fullname": "阿图什市",
+        "quanpin": "atushenshi",
+        "pinyin": "ATSS"
+      }],
+      "B":[{
+        "code": "220800",
+        "name": "白城",
+        "fullname": "白城市",
+        "quanpin": "baichengshi",
+        "pinyin": "BCS"
+      },
+      {
+        "code": "451000",
+        "name": "百色",
+        "fullname": "百色市",
+        "quanpin": "baiseshi",
+        "pinyin": "BSS"
+      },
+      {
+        "code": "220600",
+        "name": "白山",
+        "fullname": "白山市",
+        "quanpin": "baishanshi",
+        "pinyin": "BSS"
+      },
+      {
+        "code": "620400",
+        "name": "白银",
+        "fullname": "白银市",
+        "quanpin": "baiyinshi",
+        "pinyin": "BYS"
+      },
+      {
+        "code": "130600",
+        "name": "保定",
+        "fullname": "保定市",
+        "quanpin": "baodingshi",
+        "pinyin": "BDS"
+      },
+      {
+        "code": "610300",
+        "name": "宝鸡",
+        "fullname": "宝鸡市",
+        "quanpin": "baojishi",
+        "pinyin": "BJS"
+      },
+      {
+        "code": "530500",
+        "name": "保山",
+        "fullname": "保山市",
+        "quanpin": "baoshanshi",
+        "pinyin": "BSS"
+      },
+      {
+        "code": "150200",
+        "name": "包头",
+        "fullname": "包头市",
+        "quanpin": "baotoushi",
+        "pinyin": "BTS"
+      },
+      {
+        "code": "150800",
+        "name": "巴彦淖尔",
+        "fullname": "巴彦淖尔市",
+        "quanpin": "bayannaoershi",
+        "pinyin": "BYNES"
+      },
+      {
+        "code": "652800",
+        "name": "巴音郭楞蒙古自治州",
+        "fullname": "巴音郭楞蒙古自治州",
+        "quanpin": "bayinguolengmengguzi",
+        "pinyin": "BYGLMGZZZ"
+      },
+      {
+        "code": "511900",
+        "name": "巴中",
+        "fullname": "巴中市",
+        "quanpin": "bazhongshi",
+        "pinyin": "BZS"
+      },
+      {
+        "code": "131081",
+        "name": "霸州",
+        "fullname": "霸州市",
+        "quanpin": "bazhoushi",
+        "pinyin": "BZS"
+      },
+      {
+        "code": "231181",
+        "name": "北安",
+        "fullname": "北安市",
+        "quanpin": "beianshi",
+        "pinyin": "BAS"
+      },
+      {
+        "code": "450500",
+        "name": "北海",
+        "fullname": "北海市",
+        "quanpin": "beihaishi",
+        "pinyin": "BHS"
+      },
+      {
+        "code": "110000",
+        "name": "北京",
+        "fullname": "北京市",
+        "quanpin": "beijingshi",
+        "pinyin": "BJS"
+      },
+      {
+        "code": "110114",
+        "name": "北京昌平区",
+        "fullname": "北京市昌平区",
+        "quanpin": "beijingshichangpingqu",
+        "pinyin": "BJSCPQ"
+      },
+      {
+        "code": "110105",
+        "name": "北京朝阳区",
+        "fullname": "北京市朝阳区",
+        "quanpin": "beijingshichaoyangqu",
+        "pinyin": "BJSCYQ"
+      },
+      {
+        "code": "110103",
+        "name": "北京崇文区",
+        "fullname": "北京市崇文区",
+        "quanpin": "beijingshichongwenqu",
+        "pinyin": "BJSCWQ"
+      },
+      {
+        "code": "110115",
+        "name": "北京大兴区",
+        "fullname": "北京市大兴区",
+        "quanpin": "beijingshidaxingqu",
+        "pinyin": "BJSDXQ"
+      },
+      {
+        "code": "110101",
+        "name": "北京东城区",
+        "fullname": "北京市东城区",
+        "quanpin": "beijingshidongchengqu",
+        "pinyin": "BJSDCQ"
+      },
+      {
+        "code": "110111",
+        "name": "北京房山区",
+        "fullname": "北京市房山区",
+        "quanpin": "beijingshifangshanqu",
+        "pinyin": "BJSFSQ"
+      },
+      {
+        "code": "110106",
+        "name": "北京丰台区",
+        "fullname": "北京市丰台区",
+        "quanpin": "beijingshifengtaiqu",
+        "pinyin": "BJSFTQ"
+      },
+      {
+        "code": "110108",
+        "name": "北京海淀区",
+        "fullname": "北京市海淀区",
+        "quanpin": "beijingshihaidianqu",
+        "pinyin": "BJSHDQ"
+      },
+      {
+        "code": "110116",
+        "name": "北京怀柔区",
+        "fullname": "北京市怀柔区",
+        "quanpin": "beijingshihuairouqu",
+        "pinyin": "BJSHRQ"
+      },
+      {
+        "code": "110109",
+        "name": "北京门头沟区",
+        "fullname": "北京市门头沟区",
+        "quanpin": "beijingshimentougouqu",
+        "pinyin": "BJSMTGQ"
+      },
+      {
+        "code": "110228",
+        "name": "北京密云县",
+        "fullname": "北京市密云县",
+        "quanpin": "beijingshimiyunxian",
+        "pinyin": "BJSMYX"
+      },
+      {
+        "code": "110117",
+        "name": "北京平谷区",
+        "fullname": "北京市平谷区",
+        "quanpin": "beijingshipingguqu",
+        "pinyin": "BJSPGQ"
+      },
+      {
+        "code": "110107",
+        "name": "北京石景山区",
+        "fullname": "北京市石景山区",
+        "quanpin": "beijingshishijingshanqu",
+        "pinyin": "BJSSJSQ"
+      },
+      {
+        "code": "110113",
+        "name": "北京顺义区",
+        "fullname": "北京市顺义区",
+        "quanpin": "beijingshishunyiqu",
+        "pinyin": "BJSSYQ"
+      },
+      {
+        "code": "110112",
+        "name": "北京通州区",
+        "fullname": "北京市通州区",
+        "quanpin": "beijingshitongzhouqu",
+        "pinyin": "BJSTZQ"
+      },
+      {
+        "code": "110102",
+        "name": "北京西城区",
+        "fullname": "北京市西城区",
+        "quanpin": "beijingshixichengqu",
+        "pinyin": "BJSXCQ"
+      },
+      {
+        "code": "110104",
+        "name": "北京宣武区",
+        "fullname": "北京市宣武区",
+        "quanpin": "beijingshixuanwuqu",
+        "pinyin": "BJSXWQ"
+      },
+      {
+        "code": "110229",
+        "name": "北京延庆县",
+        "fullname": "北京市延庆县",
+        "quanpin": "beijingshiyanqingxian",
+        "pinyin": "BJSYQX"
+      },
+      {
+        "code": "450981",
+        "name": "北流",
+        "fullname": "北流市",
+        "quanpin": "beiliushi",
+        "pinyin": "BLS"
+      },
+      {
+        "code": "210782",
+        "name": "北宁",
+        "fullname": "北宁市",
+        "quanpin": "beiningshi",
+        "pinyin": "BNS"
+      },
+      {
+        "code": "211381",
+        "name": "北票",
+        "fullname": "北票市",
+        "quanpin": "beipiaoshi",
+        "pinyin": "BPS"
+      },
+      {
+        "code": "340300",
+        "name": "蚌埠",
+        "fullname": "蚌埠市",
+        "quanpin": "bengbushi",
+        "pinyin": "BBS"
+      },
+      {
+        "code": "210500",
+        "name": "本溪",
+        "fullname": "本溪市",
+        "quanpin": "benxishi",
+        "pinyin": "BXS"
+      },
+      {
+        "code": "520500",
+        "name": "毕节",
+        "fullname": "毕节市",
+        "quanpin": "bijieshi",
+        "pinyin": "BJ"
+      },
+      {
+        "code": "371600",
+        "name": "滨州",
+        "fullname": "滨州市",
+        "quanpin": "binzhoushi",
+        "pinyin": "BZS"
+      },
+      {
+        "code": "652700",
+        "name": "博尔塔拉蒙古自治州",
+        "fullname": "博尔塔拉蒙古自治州",
+        "quanpin": "boertalamengguzizhiz",
+        "pinyin": "BETLMGZZZ"
+      },
+      {
+        "code": "652701",
+        "name": "博乐",
+        "fullname": "博乐市",
+        "quanpin": "boleshi",
+        "pinyin": "BLS"
+      },
+      {
+        "code": "130981",
+        "name": "泊头",
+        "fullname": "泊头市",
+        "quanpin": "botoushi",
+        "pinyin": "BTS"
+      },
+      {
+        "code": "341600",
+        "name": "亳州",
+        "fullname": "亳州市",
+        "quanpin": "bozhoushi",
+        "pinyin": "BZS"
+      }],
+      "C":[{
+        "code": "130900",
+        "name": "沧州",
+        "fullname": "沧州市",
+        "quanpin": "cangzhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "450481",
+        "name": "岑溪",
+        "fullname": "岑溪市",
+        "quanpin": "cenxishi",
+        "pinyin": "CXS"
+      },
+      {
+        "code": "220100",
+        "name": "长春",
+        "fullname": "长春市",
+        "quanpin": "changchunshi",
+        "pinyin": "CCS"
+      },
+      {
+        "code": "430700",
+        "name": "常德",
+        "fullname": "常德市",
+        "quanpin": "changdeshi",
+        "pinyin": "CDS"
+      },
+      {
+        "code": "411082",
+        "name": "长葛",
+        "fullname": "长葛市",
+        "quanpin": "changgeshi",
+        "pinyin": "CGS"
+      },
+      {
+        "code": "652300",
+        "name": "昌吉回族自治州",
+        "fullname": "昌吉回族自治州",
+        "quanpin": "changjihuizuzizhizho",
+        "pinyin": "CJHZZZZ"
+      },
+      {
+        "code": "652301",
+        "name": "昌吉",
+        "fullname": "昌吉市",
+        "quanpin": "changjishi",
+        "pinyin": "CJS"
+      },
+      {
+        "code": "350182",
+        "name": "长乐",
+        "fullname": "长乐市",
+        "quanpin": "changleshi",
+        "pinyin": "CLS"
+      },
+      {
+        "code": "430482",
+        "name": "常宁",
+        "fullname": "常宁市",
+        "quanpin": "changningshi",
+        "pinyin": "CNS"
+      },
+      {
+        "code": "430100",
+        "name": "长沙",
+        "fullname": "长沙市",
+        "quanpin": "changshashi",
+        "pinyin": "CSS"
+      },
+      {
+        "code": "320581",
+        "name": "常熟",
+        "fullname": "常熟市",
+        "quanpin": "changshushi",
+        "pinyin": "CSS"
+      },
+      {
+        "code": "370786",
+        "name": "昌邑",
+        "fullname": "昌邑市",
+        "quanpin": "changyishi",
+        "pinyin": "CYS"
+      },
+      {
+        "code": "140400",
+        "name": "长治",
+        "fullname": "长治市",
+        "quanpin": "changzhishi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "320400",
+        "name": "常州",
+        "fullname": "常州市",
+        "quanpin": "changzhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "341400",
+        "name": "巢湖",
+        "fullname": "巢湖市",
+        "quanpin": "chaohushi",
+        "pinyin": "CHS"
+      },
+      {
+        "code": "445100",
+        "name": "潮州",
+        "fullname": "潮州市",
+        "quanpin": "chaozhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "130800",
+        "name": "承德",
+        "fullname": "承德市",
+        "quanpin": "chengdeshi",
+        "pinyin": "CDS"
+      },
+      {
+        "code": "510100",
+        "name": "成都",
+        "fullname": "成都市",
+        "quanpin": "chengdushi",
+        "pinyin": "CDS"
+      },
+      {
+        "code": "431000",
+        "name": "郴州",
+        "fullname": "郴州市",
+        "quanpin": "chenzhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "421281",
+        "name": "赤壁",
+        "fullname": "赤壁市",
+        "quanpin": "chibishi",
+        "pinyin": "CBS"
+      },
+      {
+        "code": "150400",
+        "name": "赤峰",
+        "fullname": "赤峰市",
+        "quanpin": "chifengshi",
+        "pinyin": "CFS"
+      },
+      {
+        "code": "520381",
+        "name": "赤水",
+        "fullname": "赤水市",
+        "quanpin": "chishuishi",
+        "pinyin": "CSS"
+      },
+      {
+        "code": "341700",
+        "name": "池州",
+        "fullname": "池州市",
+        "quanpin": "chizhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "500000",
+        "name": "重庆",
+        "fullname": "重庆市",
+        "quanpin": "chongqingshi",
+        "pinyin": "CQS"
+      },
+      {
+        "code": "500113",
+        "name": "重庆巴南区",
+        "fullname": "重庆市巴南区",
+        "quanpin": "chongqingshibananqu",
+        "pinyin": "CQSBNQ"
+      },
+      {
+        "code": "500109",
+        "name": "重庆北碚区",
+        "fullname": "重庆市北碚区",
+        "quanpin": "chongqingshibeibeiqu",
+        "pinyin": "CQSBBQ"
+      },
+      {
+        "code": "500227",
+        "name": "重庆璧山县",
+        "fullname": "重庆市璧山县",
+        "quanpin": "chongqingshibishanxian",
+        "pinyin": "CQSBSX"
+      },
+      {
+        "code": "500115",
+        "name": "重庆长寿区",
+        "fullname": "重庆市长寿区",
+        "quanpin": "chongqingshichangshouqu",
+        "pinyin": "CQSCSQ"
+      },
+      {
+        "code": "500229",
+        "name": "重庆城口县",
+        "fullname": "重庆市城口县",
+        "quanpin": "chongqingshichengkouxian",
+        "pinyin": "CQSCKX"
+      },
+      {
+        "code": "500104",
+        "name": "重庆大渡口区",
+        "fullname": "重庆市大渡口区",
+        "quanpin": "chongqingshidadukouqu",
+        "pinyin": "CQSDDKQ"
+      },
+      {
+        "code": "500225",
+        "name": "重庆大足县",
+        "fullname": "重庆市大足县",
+        "quanpin": "chongqingshidazuxian",
+        "pinyin": "CQSDZX"
+      },
+      {
+        "code": "500231",
+        "name": "重庆垫江县",
+        "fullname": "重庆市垫江县",
+        "quanpin": "chongqingshidianjiangxian",
+        "pinyin": "CQSDJX"
+      },
+      {
+        "code": "500230",
+        "name": "重庆丰都县",
+        "fullname": "重庆市丰都县",
+        "quanpin": "chongqingshifengdouxian",
+        "pinyin": "CQSFDX"
+      },
+      {
+        "code": "500236",
+        "name": "重庆奉节县",
+        "fullname": "重庆市奉节县",
+        "quanpin": "chongqingshifengjiexian",
+        "pinyin": "CQSFJX"
+      },
+      {
+        "code": "500102",
+        "name": "重庆涪陵区",
+        "fullname": "重庆市涪陵区",
+        "quanpin": "chongqingshifulingqu",
+        "pinyin": "CQSFLQ"
+      },
+      {
+        "code": "500117",
+        "name": "重庆合川区",
+        "fullname": "重庆市合川区",
+        "quanpin": "chongqingshihechuanqu",
+        "pinyin": "CQSHCQ"
+      },
+      {
+        "code": "500105",
+        "name": "重庆江北区",
+        "fullname": "重庆市江北区",
+        "quanpin": "chongqingshijiangbeiqu",
+        "pinyin": "CQSJBQ"
+      },
+      {
+        "code": "500116",
+        "name": "重庆江津区",
+        "fullname": "重庆市江津区",
+        "quanpin": "chongqingshijiangjinqu",
+        "pinyin": "CQSJJQ"
+      },
+      {
+        "code": "500107",
+        "name": "重庆九龙坡区",
+        "fullname": "重庆市九龙坡区",
+        "quanpin": "chongqingshijiulongpoqu",
+        "pinyin": "CQSJLPQ"
+      },
+      {
+        "code": "500234",
+        "name": "重庆开县",
+        "fullname": "重庆市开县",
+        "quanpin": "chongqingshikaixian",
+        "pinyin": "CQSKX"
+      },
+      {
+        "code": "500228",
+        "name": "重庆梁平县",
+        "fullname": "重庆市梁平县",
+        "quanpin": "chongqingshiliangpingxian",
+        "pinyin": "CQSLPX"
+      },
+      {
+        "code": "500108",
+        "name": "重庆南岸区",
+        "fullname": "重庆市南岸区",
+        "quanpin": "chongqingshinananqu",
+        "pinyin": "CQSNAQ"
+      },
+      {
+        "code": "500119",
+        "name": "重庆南川区",
+        "fullname": "重庆市南川区",
+        "quanpin": "chongqingshinanchuanqu",
+        "pinyin": "CQSNCQ"
+      },
+      {
+        "code": "500243",
+        "name": "重庆彭水苗族土家族自治县",
+        "fullname": "重庆市彭水苗族土家族自治县",
+        "quanpin": "chongqingshipengshuimiaozutujiaz",
+        "pinyin": "CQSPSMZTJZZZX"
+      },
+      {
+        "code": "500114",
+        "name": "重庆黔江区",
+        "fullname": "重庆市黔江区",
+        "quanpin": "chongqingshiqianjiangqu",
+        "pinyin": "CQSQJQ"
+      },
+      {
+        "code": "500222",
+        "name": "重庆綦江县",
+        "fullname": "重庆市綦江县",
+        "quanpin": "chongqingshiqijiangxian",
+        "pinyin": "CQSQJX"
+      },
+      {
+        "code": "500226",
+        "name": "重庆荣昌县",
+        "fullname": "重庆市荣昌县",
+        "quanpin": "chongqingshirongchangxian",
+        "pinyin": "CQSRCX"
+      },
+      {
+        "code": "500106",
+        "name": "重庆沙坪坝区",
+        "fullname": "重庆市沙坪坝区",
+        "quanpin": "chongqingshishapingbaqu",
+        "pinyin": "CQSSPBQ"
+      },
+      {
+        "code": "500240",
+        "name": "重庆石柱土家族自治县",
+        "fullname": "重庆市石柱土家族自治县",
+        "quanpin": "chongqingshishizhutujiazuzizhixi",
+        "pinyin": "CQSSZTJZZZX"
+      },
+      {
+        "code": "500111",
+        "name": "重庆双桥区",
+        "fullname": "重庆市双桥区",
+        "quanpin": "chongqingshishuangqiaoqu",
+        "pinyin": "CQSSQQ"
+      },
+      {
+        "code": "500224",
+        "name": "重庆铜梁县",
+        "fullname": "重庆市铜梁县",
+        "quanpin": "chongqingshitongliangxian",
+        "pinyin": "CQSTLX"
+      },
+      {
+        "code": "500223",
+        "name": "重庆潼南县",
+        "fullname": "重庆市潼南县",
+        "quanpin": "chongqingshitongnanxian",
+        "pinyin": "CQSTNX"
+      },
+      {
+        "code": "500110",
+        "name": "重庆万盛区",
+        "fullname": "重庆市万盛区",
+        "quanpin": "chongqingshiwanshengqu",
+        "pinyin": "CQSWSQ"
+      },
+      {
+        "code": "500101",
+        "name": "重庆万州区",
+        "fullname": "重庆市万州区",
+        "quanpin": "chongqingshiwanzhouqu",
+        "pinyin": "CQSWZQ"
+      },
+      {
+        "code": "500232",
+        "name": "重庆武隆县",
+        "fullname": "重庆市武隆县",
+        "quanpin": "chongqingshiwulongxian",
+        "pinyin": "CQSWLX"
+      },
+      {
+        "code": "500237",
+        "name": "重庆巫山县",
+        "fullname": "重庆市巫山县",
+        "quanpin": "chongqingshiwushanxian",
+        "pinyin": "CQSWSX"
+      },
+      {
+        "code": "500238",
+        "name": "重庆巫溪县",
+        "fullname": "重庆市巫溪县",
+        "quanpin": "chongqingshiwuxixian",
+        "pinyin": "CQSWXX"
+      },
+      {
+        "code": "500241",
+        "name": "重庆秀山土家族苗族自治县",
+        "fullname": "重庆市秀山土家族苗族自治县",
+        "quanpin": "chongqingshixiushantujiazumiaozu",
+        "pinyin": "CQSXSTJZMZZZX"
+      },
+      {
+        "code": "500118",
+        "name": "重庆永川区",
+        "fullname": "重庆市永川区",
+        "quanpin": "chongqingshiyongchuanqu",
+        "pinyin": "CQSYCQ"
+      },
+      {
+        "code": "500242",
+        "name": "重庆酉阳土家族苗族自治县",
+        "fullname": "重庆市酉阳土家族苗族自治县",
+        "quanpin": "chongqingshiyouyangtujiazumiaozu",
+        "pinyin": "CQSYYTJZMZZZX"
+      },
+      {
+        "code": "500112",
+        "name": "重庆渝北区",
+        "fullname": "重庆市渝北区",
+        "quanpin": "chongqingshiyubeiqu",
+        "pinyin": "CQSYBQ"
+      },
+      {
+        "code": "500235",
+        "name": "重庆云阳县",
+        "fullname": "重庆市云阳县",
+        "quanpin": "chongqingshiyunyangxian",
+        "pinyin": "CQSYYX"
+      },
+      {
+        "code": "500103",
+        "name": "重庆渝中区",
+        "fullname": "重庆市渝中区",
+        "quanpin": "chongqingshiyuzhongqu",
+        "pinyin": "CQSYZQ"
+      },
+      {
+        "code": "500233",
+        "name": "重庆忠县",
+        "fullname": "重庆市忠县",
+        "quanpin": "chongqingshizhongxian",
+        "pinyin": "CQSZX"
+      },
+      {
+        "code": "510184",
+        "name": "崇州",
+        "fullname": "崇州市",
+        "quanpin": "chongzhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "451400",
+        "name": "崇左",
+        "fullname": "崇左市",
+        "quanpin": "chongzuoshi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "532301",
+        "name": "楚雄",
+        "fullname": "楚雄市",
+        "quanpin": "chuxiongshi",
+        "pinyin": "CXS"
+      },
+      {
+        "code": "532300",
+        "name": "楚雄彝族自治州",
+        "fullname": "楚雄彝族自治州",
+        "quanpin": "chuxiongyizuzizhizho",
+        "pinyin": "CXYZZZZ"
+      },
+      {
+        "code": "341100",
+        "name": "滁州",
+        "fullname": "滁州市",
+        "quanpin": "chuzhoushi",
+        "pinyin": "CZS"
+      },
+      {
+        "code": "330282",
+        "name": "慈溪",
+        "fullname": "慈溪市",
+        "quanpin": "cixishi",
+        "pinyin": "CXS"
+      },
+      {
+        "code": "440184",
+        "name": "从化",
+        "fullname": "从化市",
+        "quanpin": "conghuashi",
+        "pinyin": "CHS"
+      }],
+      "D":[{
+        "code": "220882",
+        "name": "大安",
+        "fullname": "大安市",
+        "quanpin": "daanshi",
+        "pinyin": "DAS"
+      },
+      {
+        "code": "320982",
+        "name": "大丰",
+        "fullname": "大丰市",
+        "quanpin": "dafengshi",
+        "pinyin": "DFS"
+      },
+      {
+        "code": "210200",
+        "name": "大连",
+        "fullname": "大连市",
+        "quanpin": "dalianshi",
+        "pinyin": "DLS"
+      },
+      {
+        "code": "532900",
+        "name": "大理白族自治州",
+        "fullname": "大理白族自治州",
+        "quanpin": "dalibaizuzizhizhou",
+        "pinyin": "DLBZZZZ"
+      },
+      {
+        "code": "532901",
+        "name": "大理",
+        "fullname": "大理市",
+        "quanpin": "dalishi",
+        "pinyin": "DLS"
+      },
+      {
+        "code": "210600",
+        "name": "丹东",
+        "fullname": "丹东市",
+        "quanpin": "dandongshi",
+        "pinyin": "DDS"
+      },
+      {
+        "code": "420582",
+        "name": "当阳",
+        "fullname": "当阳市",
+        "quanpin": "dangyangshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "420381",
+        "name": "丹江口",
+        "fullname": "丹江口市",
+        "quanpin": "danjiangkoushi",
+        "pinyin": "DJKS"
+      },
+      {
+        "code": "321181",
+        "name": "丹阳",
+        "fullname": "丹阳市",
+        "quanpin": "danyangshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "469003",
+        "name": "儋州",
+        "fullname": "儋州市",
+        "quanpin": "danzhoushi",
+        "pinyin": "DZS"
+      },
+      {
+        "code": "230600",
+        "name": "大庆",
+        "fullname": "大庆市",
+        "quanpin": "daqingshi",
+        "pinyin": "DQS"
+      },
+      {
+        "code": "210882",
+        "name": "大石桥",
+        "fullname": "大石桥市",
+        "quanpin": "dashiqiaoshi",
+        "pinyin": "DSQS"
+      },
+      {
+        "code": "140200",
+        "name": "大同",
+        "fullname": "大同市",
+        "quanpin": "datongshi",
+        "pinyin": "DTS"
+      },
+      {
+        "code": "420281",
+        "name": "大冶",
+        "fullname": "大冶市",
+        "quanpin": "dayeshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "511700",
+        "name": "达州",
+        "fullname": "达州市",
+        "quanpin": "dazhoushi",
+        "pinyin": "DZS"
+      },
+      {
+        "code": "533100",
+        "name": "德宏傣族景颇族自治州",
+        "fullname": "德宏傣族景颇族自治州",
+        "quanpin": "dehongdaizujingpozuz",
+        "pinyin": "DHDZJPZZZZ"
+      },
+      {
+        "code": "220183",
+        "name": "德惠",
+        "fullname": "德惠市",
+        "quanpin": "dehuishi",
+        "pinyin": "DHS"
+      },
+      {
+        "code": "632802",
+        "name": "德令哈",
+        "fullname": "德令哈市",
+        "quanpin": "delinghashi",
+        "pinyin": "DLHS"
+      },
+      {
+        "code": "410185",
+        "name": "登封",
+        "fullname": "登封市",
+        "quanpin": "dengfengshi",
+        "pinyin": "DFS"
+      },
+      {
+        "code": "211081",
+        "name": "灯塔",
+        "fullname": "灯塔市",
+        "quanpin": "dengtashi",
+        "pinyin": "DTS"
+      },
+      {
+        "code": "411381",
+        "name": "邓州",
+        "fullname": "邓州市",
+        "quanpin": "dengzhoushi",
+        "pinyin": "DZS"
+      },
+      {
+        "code": "361181",
+        "name": "德兴",
+        "fullname": "德兴市",
+        "quanpin": "dexingshi",
+        "pinyin": "DXS"
+      },
+      {
+        "code": "510600",
+        "name": "德阳",
+        "fullname": "德阳市",
+        "quanpin": "deyangshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "371400",
+        "name": "德州",
+        "fullname": "德州市",
+        "quanpin": "dezhoushi",
+        "pinyin": "DZS"
+      },
+      {
+        "code": "211281",
+        "name": "调兵山",
+        "fullname": "调兵山市",
+        "quanpin": "diaobingshanshi",
+        "pinyin": "DBSS"
+      },
+      {
+        "code": "621100",
+        "name": "定西",
+        "fullname": "定西市",
+        "quanpin": "dingxishi",
+        "pinyin": "DXS"
+      },
+      {
+        "code": "130682",
+        "name": "定州",
+        "fullname": "定州市",
+        "quanpin": "dingzhoushi",
+        "pinyin": "DZS"
+      },
+      {
+        "code": "533400",
+        "name": "迪庆藏族自治州",
+        "fullname": "迪庆藏族自治州",
+        "quanpin": "diqingzangzuzizhizho",
+        "pinyin": "DQZZZZZ"
+      },
+      {
+        "code": "469007",
+        "name": "东方",
+        "fullname": "东方市",
+        "quanpin": "dongfangshi",
+        "pinyin": "DFS"
+      },
+      {
+        "code": "210681",
+        "name": "东港",
+        "fullname": "东港市",
+        "quanpin": "donggangshi",
+        "pinyin": "DGS"
+      },
+      {
+        "code": "441900",
+        "name": "东莞",
+        "fullname": "东莞市",
+        "quanpin": "dongguanshi",
+        "pinyin": "DGS"
+      },
+      {
+        "code": "320981",
+        "name": "东台",
+        "fullname": "东台市",
+        "quanpin": "dongtaishi",
+        "pinyin": "DTS"
+      },
+      {
+        "code": "450681",
+        "name": "东兴",
+        "fullname": "东兴市",
+        "quanpin": "dongxingshi",
+        "pinyin": "DXS"
+      },
+      {
+        "code": "330783",
+        "name": "东阳",
+        "fullname": "东阳市",
+        "quanpin": "dongyangshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "370500",
+        "name": "东营",
+        "fullname": "东营市",
+        "quanpin": "dongyingshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "510181",
+        "name": "都江堰",
+        "fullname": "都江堰市",
+        "quanpin": "doujiangyanshi",
+        "pinyin": "DJYS"
+      },
+      {
+        "code": "522701",
+        "name": "都匀",
+        "fullname": "都匀市",
+        "quanpin": "douyunshi",
+        "pinyin": "DYS"
+      },
+      {
+        "code": "620982",
+        "name": "敦煌",
+        "fullname": "敦煌市",
+        "quanpin": "dunhuangshi",
+        "pinyin": "DHS"
+      },
+      {
+        "code": "222403",
+        "name": "敦化",
+        "fullname": "敦化市",
+        "quanpin": "dunhuashi",
+        "pinyin": "DHS"
+      }],
+      "E":[{
+        "code": "150600",
+        "name": "鄂尔多斯",
+        "fullname": "鄂尔多斯市",
+        "quanpin": "eerduosishi",
+        "pinyin": "EEDSS"
+      },
+      {
+        "code": "150784",
+        "name": "额尔古纳",
+        "fullname": "额尔古纳市",
+        "quanpin": "eergunashi",
+        "pinyin": "EEGNS"
+      },
+      {
+        "code": "511181",
+        "name": "峨眉山",
+        "fullname": "峨眉山市",
+        "quanpin": "emeishanshi",
+        "pinyin": "EMSS"
+      },
+      {
+        "code": "440785",
+        "name": "恩平",
+        "fullname": "恩平市",
+        "quanpin": "enpingshi",
+        "pinyin": "EPS"
+      },
+      {
+        "code": "422801",
+        "name": "恩施",
+        "fullname": "恩施市",
+        "quanpin": "enshishi",
+        "pinyin": "ESS"
+      },
+      {
+        "code": "422800",
+        "name": "恩施土家族苗族自治州",
+        "fullname": "恩施土家族苗族自治州",
+        "quanpin": "enshitujiazumiaozuzi",
+        "pinyin": "ESTJZMZZZZ"
+      },
+      {
+        "code": "152501",
+        "name": "二连浩特",
+        "fullname": "二连浩特市",
+        "quanpin": "erlianhaoteshi",
+        "pinyin": "ELHTS"
+      },
+      {
+        "code": "420700",
+        "name": "鄂州",
+        "fullname": "鄂州市",
+        "quanpin": "ezhoushi",
+        "pinyin": "EZS"
+      }],
+      "F":[{
+        "code": "450600",
+        "name": "防城港",
+        "fullname": "防城港市",
+        "quanpin": "fangchenggangshi",
+        "pinyin": "FCGS"
+      },
+      {
+        "code": "370983",
+        "name": "肥城",
+        "fullname": "肥城市",
+        "quanpin": "feichengshi",
+        "pinyin": "FCS"
+      },
+      {
+        "code": "210682",
+        "name": "凤城",
+        "fullname": "凤城市",
+        "quanpin": "fengchengshi",
+        "pinyin": "FCS"
+      },
+      {
+        "code": "360981",
+        "name": "丰城",
+        "fullname": "丰城市",
+        "quanpin": "fengchengshi",
+        "pinyin": "FCS"
+      },
+      {
+        "code": "330283",
+        "name": "奉化",
+        "fullname": "奉化市",
+        "quanpin": "fenghuashi",
+        "pinyin": "FHS"
+      },
+      {
+        "code": "150981",
+        "name": "丰镇",
+        "fullname": "丰镇市",
+        "quanpin": "fengzhenshi",
+        "pinyin": "FZS"
+      },
+      {
+        "code": "141182",
+        "name": "汾阳",
+        "fullname": "汾阳市",
+        "quanpin": "fenyangshi",
+        "pinyin": "FYS"
+      },
+      {
+        "code": "440600",
+        "name": "佛山",
+        "fullname": "佛山市",
+        "quanpin": "foshanshi",
+        "pinyin": "FSS"
+      },
+      {
+        "code": "350981",
+        "name": "福安",
+        "fullname": "福安市",
+        "quanpin": "fuanshi",
+        "pinyin": "FAS"
+      },
+      {
+        "code": "350982",
+        "name": "福鼎",
+        "fullname": "福鼎市",
+        "quanpin": "fudingshi",
+        "pinyin": "FDS"
+      },
+      {
+        "code": "230882",
+        "name": "富锦",
+        "fullname": "富锦市",
+        "quanpin": "fujinshi",
+        "pinyin": "FJS"
+      },
+      {
+        "code": "652302",
+        "name": "阜康",
+        "fullname": "阜康市",
+        "quanpin": "fukangshi",
+        "pinyin": "FKS"
+      },
+      {
+        "code": "350181",
+        "name": "福清",
+        "fullname": "福清市",
+        "quanpin": "fuqingshi",
+        "pinyin": "FQS"
+      },
+      {
+        "code": "522702",
+        "name": "福泉",
+        "fullname": "福泉市",
+        "quanpin": "fuquanshi",
+        "pinyin": "FQS"
+      },
+      {
+        "code": "210400",
+        "name": "抚顺",
+        "fullname": "抚顺市",
+        "quanpin": "fushunshi",
+        "pinyin": "FSS"
+      },
+      {
+        "code": "210900",
+        "name": "阜新",
+        "fullname": "阜新市",
+        "quanpin": "fuxinshi",
+        "pinyin": "FXS"
+      },
+      {
+        "code": "341200",
+        "name": "阜阳",
+        "fullname": "阜阳市",
+        "quanpin": "fuyangshi",
+        "pinyin": "FYS"
+      },
+      {
+        "code": "330183",
+        "name": "富阳",
+        "fullname": "富阳市",
+        "quanpin": "fuyangshi",
+        "pinyin": "FYS"
+      },
+      {
+        "code": "361000",
+        "name": "抚州",
+        "fullname": "抚州市",
+        "quanpin": "fuzhoushi",
+        "pinyin": "FZS"
+      },
+      {
+        "code": "350100",
+        "name": "福州",
+        "fullname": "福州市",
+        "quanpin": "fuzhoushi",
+        "pinyin": "FZS"
+      }],
+      "G":[{
+        "code": "210881",
+        "name": "盖州",
+        "fullname": "盖州市",
+        "quanpin": "gaizhoushi",
+        "pinyin": "GZS"
+      },
+      {
+        "code": "623000",
+        "name": "甘南藏族自治州",
+        "fullname": "甘南藏族自治州",
+        "quanpin": "gannanzangzuzizhizho",
+        "pinyin": "GNZZZZZ"
+      },
+      {
+        "code": "360700",
+        "name": "赣州",
+        "fullname": "赣州市",
+        "quanpin": "ganzhoushi",
+        "pinyin": "GZS"
+      },
+      {
+        "code": "513300",
+        "name": "甘孜藏族自治州",
+        "fullname": "甘孜藏族自治州",
+        "quanpin": "ganzizangzuzizhizhou",
+        "pinyin": "GZZZZZZ"
+      },
+      {
+        "code": "360983",
+        "name": "高安",
+        "fullname": "高安市",
+        "quanpin": "gaoanshi",
+        "pinyin": "GAS"
+      },
+      {
+        "code": "130684",
+        "name": "高碑店",
+        "fullname": "高碑店市",
+        "quanpin": "gaobeidianshi",
+        "pinyin": "GBDS"
+      },
+      {
+        "code": "130182",
+        "name": "藁城",
+        "fullname": "藁城市",
+        "quanpin": "gaochengshi",
+        "pinyin": "GCS"
+      },
+      {
+        "code": "370785",
+        "name": "高密",
+        "fullname": "高密市",
+        "quanpin": "gaomishi",
+        "pinyin": "GMS"
+      },
+      {
+        "code": "140581",
+        "name": "高平",
+        "fullname": "高平市",
+        "quanpin": "gaopingshi",
+        "pinyin": "GPS"
+      },
+      {
+        "code": "441283",
+        "name": "高要",
+        "fullname": "高要市",
+        "quanpin": "gaoyaoshi",
+        "pinyin": "GYS"
+      },
+      {
+        "code": "321084",
+        "name": "高邮",
+        "fullname": "高邮市",
+        "quanpin": "gaoyoushi",
+        "pinyin": "GYS"
+      },
+      {
+        "code": "440981",
+        "name": "高州",
+        "fullname": "高州市",
+        "quanpin": "gaozhoushi",
+        "pinyin": "GZS"
+      },
+      {
+        "code": "632801",
+        "name": "格尔木",
+        "fullname": "格尔木市",
+        "quanpin": "geermushi",
+        "pinyin": "GEMS"
+      },
+      {
+        "code": "532501",
+        "name": "个旧",
+        "fullname": "个旧市",
+        "quanpin": "gejiushi",
+        "pinyin": "GJS"
+      },
+      {
+        "code": "150785",
+        "name": "根河",
+        "fullname": "根河市",
+        "quanpin": "genheshi",
+        "pinyin": "GHS"
+      },
+      {
+        "code": "410181",
+        "name": "巩义",
+        "fullname": "巩义市",
+        "quanpin": "gongyishi",
+        "pinyin": "GYS"
+      },
+      {
+        "code": "220381",
+        "name": "公主岭",
+        "fullname": "公主岭市",
+        "quanpin": "gongzhulingshi",
+        "pinyin": "GZLS"
+      },
+      {
+        "code": "511600",
+        "name": "广安",
+        "fullname": "广安市",
+        "quanpin": "guanganshi",
+        "pinyin": "GAS"
+      },
+      {
+        "code": "510681",
+        "name": "广汉",
+        "fullname": "广汉市",
+        "quanpin": "guanghanshi",
+        "pinyin": "GHS"
+      },
+      {
+        "code": "421381",
+        "name": "广水",
+        "fullname": "广水市",
+        "quanpin": "guangshuishi",
+        "pinyin": "GSS"
+      },
+      {
+        "code": "510800",
+        "name": "广元",
+        "fullname": "广元市",
+        "quanpin": "guangyuanshi",
+        "pinyin": "GYS"
+      },
+      {
+        "code": "440100",
+        "name": "广州",
+        "fullname": "广州市",
+        "quanpin": "guangzhoushi",
+        "pinyin": "GZS"
+      },
+      {
+        "code": "440111",
+        "name": "广州白云区",
+        "fullname": "广州市白云区",
+        "quanpin": "guangzhoushibaiyunqu",
+        "pinyin": "GZSBYQ"
+      },
+      {
+        "code": "440184",
+        "name": "广州从化",
+        "fullname": "广州市从化市",
+        "quanpin": "guangzhoushiconghuashi",
+        "pinyin": "GZSCHS"
+      },
+      {
+        "code": "440105",
+        "name": "广州海珠区",
+        "fullname": "广州市海珠区",
+        "quanpin": "guangzhoushihaizhuqu",
+        "pinyin": "GZSHZQ"
+      },
+      {
+        "code": "440114",
+        "name": "广州花都区",
+        "fullname": "广州市花都区",
+        "quanpin": "guangzhoushihuadouqu",
+        "pinyin": "GZSHDQ"
+      },
+      {
+        "code": "440112",
+        "name": "广州黄埔区",
+        "fullname": "广州市黄埔区",
+        "quanpin": "guangzhoushihuangpuqu",
+        "pinyin": "GZSHPQ"
+      },
+      {
+        "code": "440103",
+        "name": "广州荔湾区",
+        "fullname": "广州市荔湾区",
+        "quanpin": "guangzhoushiliwanqu",
+        "pinyin": "GZSLWQ"
+      },
+      {
+        "code": "440116",
+        "name": "广州萝岗区",
+        "fullname": "广州市萝岗区",
+        "quanpin": "guangzhoushiluogangqu",
+        "pinyin": "GZSLGQ"
+      },
+      {
+        "code": "440115",
+        "name": "广州南沙区",
+        "fullname": "广州市南沙区",
+        "quanpin": "guangzhoushinanshaqu",
+        "pinyin": "GZSNSQ"
+      },
+      {
+        "code": "440113",
+        "name": "广州番禺区",
+        "fullname": "广州市番禺区",
+        "quanpin": "guangzhoushipanyuqu",
+        "pinyin": "GZSPYQ"
+      },
+      {
+        "code": "440106",
+        "name": "广州天河区",
+        "fullname": "广州市天河区",
+        "quanpin": "guangzhoushitianhequ",
+        "pinyin": "GZSTHQ"
+      },
+      {
+        "code": "440104",
+        "name": "广州越秀区",
+        "fullname": "广州市越秀区",
+        "quanpin": "guangzhoushiyuexiuqu",
+        "pinyin": "GZSYXQ"
+      },
+      {
+        "code": "440183",
+        "name": "广州增城",
+        "fullname": "广州市增城市",
+        "quanpin": "guangzhoushizengchengshi",
+        "pinyin": "GZSZCS"
+      },
+      {
+        "code": "450800",
+        "name": "贵港",
+        "fullname": "贵港市",
+        "quanpin": "guigangshi",
+        "pinyin": "GGS"
+      },
+      {
+        "code": "450300",
+        "name": "桂林",
+        "fullname": "桂林市",
+        "quanpin": "guilinshi",
+        "pinyin": "GLS"
+      },
+      {
+        "code": "450881",
+        "name": "桂平",
+        "fullname": "桂平市",
+        "quanpin": "guipingshi",
+        "pinyin": "GPS"
+      },
+      {
+        "code": "360681",
+        "name": "贵溪",
+        "fullname": "贵溪市",
+        "quanpin": "guixishi",
+        "pinyin": "GXS"
+      },
+      {
+        "code": "520100",
+        "name": "贵阳",
+        "fullname": "贵阳市",
+        "quanpin": "guiyangshi",
+        "pinyin": "GYS"
+      },
+      {
+        "code": "140181",
+        "name": "古交",
+        "fullname": "古交市",
+        "quanpin": "gujiaoshi",
+        "pinyin": "GJS"
+      },
+      {
+        "code": "632600",
+        "name": "果洛藏族自治州",
+        "fullname": "果洛藏族自治州",
+        "quanpin": "guoluozangzuzizhizho",
+        "pinyin": "GLZZZZZ"
+      },
+      {
+        "code": "640400",
+        "name": "固原",
+        "fullname": "固原市",
+        "quanpin": "guyuanshi",
+        "pinyin": "GYS"
+      }],
+      "H":[{
+        "code": "230100",
+        "name": "哈尔滨",
+        "fullname": "哈尔滨市",
+        "quanpin": "haerbinshi",
+        "pinyin": "HEBS"
+      },
+      {
+        "code": "632200",
+        "name": "海北藏族自治州",
+        "fullname": "海北藏族自治州",
+        "quanpin": "haibeizangzuzizhizho",
+        "pinyin": "HBZZZZZ"
+      },
+      {
+        "code": "210381",
+        "name": "海城",
+        "fullname": "海城市",
+        "quanpin": "haichengshi",
+        "pinyin": "HCS"
+      },
+      {
+        "code": "460100",
+        "name": "海口",
+        "fullname": "海口市",
+        "quanpin": "haikoushi",
+        "pinyin": "HKS"
+      },
+      {
+        "code": "231083",
+        "name": "海林",
+        "fullname": "海林市",
+        "quanpin": "hailinshi",
+        "pinyin": "HLS"
+      },
+      {
+        "code": "231283",
+        "name": "海伦",
+        "fullname": "海伦市",
+        "quanpin": "hailunshi",
+        "pinyin": "HLS"
+      },
+      {
+        "code": "320684",
+        "name": "海门",
+        "fullname": "海门市",
+        "quanpin": "haimenshi",
+        "pinyin": "HMS"
+      },
+      {
+        "code": "632500",
+        "name": "海南藏族自治州",
+        "fullname": "海南藏族自治州",
+        "quanpin": "hainanzangzuzizhizho",
+        "pinyin": "HNZZZZZ"
+      },
+      {
+        "code": "330481",
+        "name": "海宁",
+        "fullname": "海宁市",
+        "quanpin": "hainingshi",
+        "pinyin": "HNS"
+      },
+      {
+        "code": "632800",
+        "name": "海西蒙古族藏族自治州",
+        "fullname": "海西蒙古族藏族自治州",
+        "quanpin": "haiximengguzuzangzuz",
+        "pinyin": "HXMGZZZZZZ"
+      },
+      {
+        "code": "370687",
+        "name": "海阳",
+        "fullname": "海阳市",
+        "quanpin": "haiyangshi",
+        "pinyin": "HYS"
+      },
+      {
+        "code": "652201",
+        "name": "哈密",
+        "fullname": "哈密市",
+        "quanpin": "hamishi",
+        "pinyin": "HMS"
+      },
+      {
+        "code": "610581",
+        "name": "韩城",
+        "fullname": "韩城市",
+        "quanpin": "hanchengshi",
+        "pinyin": "HCS"
+      },
+      {
+        "code": "420984",
+        "name": "汉川",
+        "fullname": "汉川市",
+        "quanpin": "hanchuanshi",
+        "pinyin": "HCS"
+      },
+      {
+        "code": "130400",
+        "name": "邯郸",
+        "fullname": "邯郸市",
+        "quanpin": "handanshi",
+        "pinyin": "HDS"
+      },
+      {
+        "code": "330100",
+        "name": "杭州",
+        "fullname": "杭州市",
+        "quanpin": "hangzhoushi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "610700",
+        "name": "汉中",
+        "fullname": "汉中市",
+        "quanpin": "hanzhongshi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "410600",
+        "name": "鹤壁",
+        "fullname": "鹤壁市",
+        "quanpin": "hebishi",
+        "pinyin": "HBS"
+      },
+      {
+        "code": "451200",
+        "name": "河池",
+        "fullname": "河池市",
+        "quanpin": "hechishi",
+        "pinyin": "HCS"
+      },
+      {
+        "code": "340100",
+        "name": "合肥",
+        "fullname": "合肥市",
+        "quanpin": "hefeishi",
+        "pinyin": "HFS"
+      },
+      {
+        "code": "230400",
+        "name": "鹤岗",
+        "fullname": "鹤岗市",
+        "quanpin": "hegangshi",
+        "pinyin": "HGS"
+      },
+      {
+        "code": "231100",
+        "name": "黑河",
+        "fullname": "黑河市",
+        "quanpin": "heiheshi",
+        "pinyin": "HHS"
+      },
+      {
+        "code": "130984",
+        "name": "河间",
+        "fullname": "河间市",
+        "quanpin": "hejianshi",
+        "pinyin": "HJS"
+      },
+      {
+        "code": "140882",
+        "name": "河津",
+        "fullname": "河津市",
+        "quanpin": "hejinshi",
+        "pinyin": "HJS"
+      },
+      {
+        "code": "222406",
+        "name": "和龙",
+        "fullname": "和龙市",
+        "quanpin": "helongshi",
+        "pinyin": "HLS"
+      },
+      {
+        "code": "131100",
+        "name": "衡水",
+        "fullname": "衡水市",
+        "quanpin": "hengshuishi",
+        "pinyin": "HSS"
+      },
+      {
+        "code": "430400",
+        "name": "衡阳",
+        "fullname": "衡阳市",
+        "quanpin": "hengyangshi",
+        "pinyin": "HYS"
+      },
+      {
+        "code": "440784",
+        "name": "鹤山",
+        "fullname": "鹤山市",
+        "quanpin": "heshanshi",
+        "pinyin": "HSS"
+      },
+      {
+        "code": "451381",
+        "name": "合山",
+        "fullname": "合山市",
+        "quanpin": "heshanshi",
+        "pinyin": "HSS"
+      },
+      {
+        "code": "653201",
+        "name": "和田",
+        "fullname": "和田市",
+        "quanpin": "hetianshi",
+        "pinyin": "HTS"
+      },
+      {
+        "code": "441600",
+        "name": "河源",
+        "fullname": "河源市",
+        "quanpin": "heyuanshi",
+        "pinyin": "HYS"
+      },
+      {
+        "code": "371700",
+        "name": "菏泽",
+        "fullname": "菏泽市",
+        "quanpin": "hezeshi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "451100",
+        "name": "贺州",
+        "fullname": "贺州市",
+        "quanpin": "hezhoushi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "623001",
+        "name": "合作",
+        "fullname": "合作市",
+        "quanpin": "hezuoshi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "532500",
+        "name": "红河哈尼族彝族自治州",
+        "fullname": "红河哈尼族彝族自治州",
+        "quanpin": "honghehanizuyizuzizh",
+        "pinyin": "HHHNZYZZZZ"
+      },
+      {
+        "code": "421083",
+        "name": "洪湖",
+        "fullname": "洪湖市",
+        "quanpin": "honghushi",
+        "pinyin": "HHS"
+      },
+      {
+        "code": "431281",
+        "name": "洪江",
+        "fullname": "洪江市",
+        "quanpin": "hongjiangshi",
+        "pinyin": "HJS"
+      },
+      {
+        "code": "141081",
+        "name": "侯马",
+        "fullname": "侯马市",
+        "quanpin": "houmashi",
+        "pinyin": "HMS"
+      },
+      {
+        "code": "220282",
+        "name": "桦甸",
+        "fullname": "桦甸市",
+        "quanpin": "huadianshi",
+        "pinyin": "HDS"
+      },
+      {
+        "code": "320800",
+        "name": "淮安",
+        "fullname": "淮安市",
+        "quanpin": "huaianshi",
+        "pinyin": "HAS"
+      },
+      {
+        "code": "340600",
+        "name": "淮北",
+        "fullname": "淮北市",
+        "quanpin": "huaibeishi",
+        "pinyin": "HBS"
+      },
+      {
+        "code": "431200",
+        "name": "怀化",
+        "fullname": "怀化市",
+        "quanpin": "huaihuashi",
+        "pinyin": "HHS"
+      },
+      {
+        "code": "340400",
+        "name": "淮南",
+        "fullname": "淮南市",
+        "quanpin": "huainanshi",
+        "pinyin": "HNS"
+      },
+      {
+        "code": "421100",
+        "name": "黄冈",
+        "fullname": "黄冈市",
+        "quanpin": "huanggangshi",
+        "pinyin": "HGS"
+      },
+      {
+        "code": "130983",
+        "name": "黄骅",
+        "fullname": "黄骅市",
+        "quanpin": "huanghuashi",
+        "pinyin": "HHS"
+      },
+      {
+        "code": "632300",
+        "name": "黄南藏族自治州",
+        "fullname": "黄南藏族自治州",
+        "quanpin": "huangnanzangzuzizhiz",
+        "pinyin": "HNZZZZZ"
+      },
+      {
+        "code": "341000",
+        "name": "黄山",
+        "fullname": "黄山市",
+        "quanpin": "huangshanshi",
+        "pinyin": "HSS"
+      },
+      {
+        "code": "420200",
+        "name": "黄石",
+        "fullname": "黄石市",
+        "quanpin": "huangshishi",
+        "pinyin": "HSS"
+      },
+      {
+        "code": "511681",
+        "name": "华蓥",
+        "fullname": "华蓥市",
+        "quanpin": "huayingshi",
+        "pinyin": "HYS"
+      },
+      {
+        "code": "610582",
+        "name": "华阴",
+        "fullname": "华阴市",
+        "quanpin": "huayinshi",
+        "pinyin": "HYS"
+      },
+      {
+        "code": "440982",
+        "name": "化州",
+        "fullname": "化州市",
+        "quanpin": "huazhoushi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "150100",
+        "name": "呼和浩特",
+        "fullname": "呼和浩特市",
+        "quanpin": "huhehaoteshi",
+        "pinyin": "HHHTS"
+      },
+      {
+        "code": "222404",
+        "name": "珲春",
+        "fullname": "珲春市",
+        "quanpin": "huichunshi",
+        "pinyin": "HCS"
+      },
+      {
+        "code": "441300",
+        "name": "惠州",
+        "fullname": "惠州市",
+        "quanpin": "huizhoushi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "230381",
+        "name": "虎林",
+        "fullname": "虎林市",
+        "quanpin": "hulinshi",
+        "pinyin": "HLS"
+      },
+      {
+        "code": "211400",
+        "name": "葫芦岛",
+        "fullname": "葫芦岛市",
+        "quanpin": "huludaoshi",
+        "pinyin": "HLDS"
+      },
+      {
+        "code": "150700",
+        "name": "呼伦贝尔",
+        "fullname": "呼伦贝尔市",
+        "quanpin": "hulunbeiershi",
+        "pinyin": "HLBES"
+      },
+      {
+        "code": "150581",
+        "name": "霍林郭勒",
+        "fullname": "霍林郭勒市",
+        "quanpin": "huolinguoleshi",
+        "pinyin": "HLGLS"
+      },
+      {
+        "code": "141082",
+        "name": "霍州",
+        "fullname": "霍州市",
+        "quanpin": "huozhoushi",
+        "pinyin": "HZS"
+      },
+      {
+        "code": "330500",
+        "name": "湖州",
+        "fullname": "湖州市",
+        "quanpin": "huzhoushi",
+        "pinyin": "HZS"
+      }],
+      "J":[{
+        "code": "230800",
+        "name": "佳木斯",
+        "fullname": "佳木斯市",
+        "quanpin": "jiamusishi",
+        "pinyin": "JMSS"
+      },
+      {
+        "code": "330182",
+        "name": "建德",
+        "fullname": "建德市",
+        "quanpin": "jiandeshi",
+        "pinyin": "JDS"
+      },
+      {
+        "code": "321088",
+        "name": "江都",
+        "fullname": "江都市",
+        "quanpin": "jiangdushi",
+        "pinyin": "JDS"
+      },
+      {
+        "code": "440700",
+        "name": "江门",
+        "fullname": "江门市",
+        "quanpin": "jiangmenshi",
+        "pinyin": "JMS"
+      },
+      {
+        "code": "330881",
+        "name": "江山",
+        "fullname": "江山市",
+        "quanpin": "jiangshanshi",
+        "pinyin": "JSS"
+      },
+      {
+        "code": "321284",
+        "name": "姜堰",
+        "fullname": "姜堰市",
+        "quanpin": "jiangyanshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "320281",
+        "name": "江阴",
+        "fullname": "江阴市",
+        "quanpin": "jiangyinshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "510781",
+        "name": "江油",
+        "fullname": "江油市",
+        "quanpin": "jiangyoushi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "350783",
+        "name": "建瓯",
+        "fullname": "建瓯市",
+        "quanpin": "jianoushi",
+        "pinyin": "JOS"
+      },
+      {
+        "code": "220582",
+        "name": "集安",
+        "fullname": "集安市",
+        "quanpin": "jianshi",
+        "pinyin": "JAS"
+      },
+      {
+        "code": "360800",
+        "name": "吉安",
+        "fullname": "吉安市",
+        "quanpin": "jianshi",
+        "pinyin": "JAS"
+      },
+      {
+        "code": "350784",
+        "name": "建阳",
+        "fullname": "建阳市",
+        "quanpin": "jianyangshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "512081",
+        "name": "简阳",
+        "fullname": "简阳市",
+        "quanpin": "jianyangshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "220281",
+        "name": "蛟河",
+        "fullname": "蛟河市",
+        "quanpin": "jiaoheshi",
+        "pinyin": "JHS"
+      },
+      {
+        "code": "370284",
+        "name": "胶南",
+        "fullname": "胶南市",
+        "quanpin": "jiaonanshi",
+        "pinyin": "JNS"
+      },
+      {
+        "code": "370281",
+        "name": "胶州",
+        "fullname": "胶州市",
+        "quanpin": "jiaozhoushi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "410800",
+        "name": "焦作",
+        "fullname": "焦作市",
+        "quanpin": "jiaozuoshi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "330400",
+        "name": "嘉兴",
+        "fullname": "嘉兴市",
+        "quanpin": "jiaxingshi",
+        "pinyin": "JXS"
+      },
+      {
+        "code": "620200",
+        "name": "嘉峪关",
+        "fullname": "嘉峪关市",
+        "quanpin": "jiayuguanshi",
+        "pinyin": "JYGS"
+      },
+      {
+        "code": "341282",
+        "name": "界首",
+        "fullname": "界首市",
+        "quanpin": "jieshoushi",
+        "pinyin": "JSS"
+      },
+      {
+        "code": "140781",
+        "name": "介休",
+        "fullname": "介休市",
+        "quanpin": "jiexiushi",
+        "pinyin": "JXS"
+      },
+      {
+        "code": "445200",
+        "name": "揭阳",
+        "fullname": "揭阳市",
+        "quanpin": "jieyangshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "220200",
+        "name": "吉林",
+        "fullname": "吉林市",
+        "quanpin": "jilinshi",
+        "pinyin": "JLS"
+      },
+      {
+        "code": "370282",
+        "name": "即墨",
+        "fullname": "即墨市",
+        "quanpin": "jimoshi",
+        "pinyin": "JMS"
+      },
+      {
+        "code": "370100",
+        "name": "济南",
+        "fullname": "济南市",
+        "quanpin": "jinanshi",
+        "pinyin": "JNS"
+      },
+      {
+        "code": "620300",
+        "name": "金昌",
+        "fullname": "金昌市",
+        "quanpin": "jinchangshi",
+        "pinyin": "JCS"
+      },
+      {
+        "code": "140500",
+        "name": "晋城",
+        "fullname": "晋城市",
+        "quanpin": "jinchengshi",
+        "pinyin": "JCS"
+      },
+      {
+        "code": "360200",
+        "name": "景德镇",
+        "fullname": "景德镇市",
+        "quanpin": "jingdezhenshi",
+        "pinyin": "JDZS"
+      },
+      {
+        "code": "360881",
+        "name": "井冈山",
+        "fullname": "井冈山市",
+        "quanpin": "jinggangshanshi",
+        "pinyin": "JGSS"
+      },
+      {
+        "code": "532801",
+        "name": "景洪",
+        "fullname": "景洪市",
+        "quanpin": "jinghongshi",
+        "pinyin": "JHS"
+      },
+      {
+        "code": "321282",
+        "name": "靖江",
+        "fullname": "靖江市",
+        "quanpin": "jingjiangshi",
+        "pinyin": "JJS"
+      },
+      {
+        "code": "420800",
+        "name": "荆门",
+        "fullname": "荆门市",
+        "quanpin": "jingmenshi",
+        "pinyin": "JMS"
+      },
+      {
+        "code": "421000",
+        "name": "荆州",
+        "fullname": "荆州市",
+        "quanpin": "jingzhoushi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "330700",
+        "name": "金华",
+        "fullname": "金华市",
+        "quanpin": "jinhuashi",
+        "pinyin": "JHS"
+      },
+      {
+        "code": "370800",
+        "name": "济宁",
+        "fullname": "济宁市",
+        "quanpin": "jiningshi",
+        "pinyin": "JNS"
+      },
+      {
+        "code": "350582",
+        "name": "晋江",
+        "fullname": "晋江市",
+        "quanpin": "jinjiangshi",
+        "pinyin": "JJS"
+      },
+      {
+        "code": "430781",
+        "name": "津",
+        "fullname": "津市市",
+        "quanpin": "jinshishi",
+        "pinyin": "JSS"
+      },
+      {
+        "code": "320482",
+        "name": "金坛",
+        "fullname": "金坛市",
+        "quanpin": "jintanshi",
+        "pinyin": "JTS"
+      },
+      {
+        "code": "140700",
+        "name": "晋中",
+        "fullname": "晋中市",
+        "quanpin": "jinzhongshi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "130183",
+        "name": "晋州",
+        "fullname": "晋州市",
+        "quanpin": "jinzhoushi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "210700",
+        "name": "锦州",
+        "fullname": "锦州市",
+        "quanpin": "jinzhoushi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "433101",
+        "name": "吉首",
+        "fullname": "吉首市",
+        "quanpin": "jishoushi",
+        "pinyin": "JSS"
+      },
+      {
+        "code": "360400",
+        "name": "九江",
+        "fullname": "九江市",
+        "quanpin": "jiujiangshi",
+        "pinyin": "JJS"
+      },
+      {
+        "code": "620900",
+        "name": "酒泉",
+        "fullname": "酒泉市",
+        "quanpin": "jiuquanshi",
+        "pinyin": "JQS"
+      },
+      {
+        "code": "220181",
+        "name": "九台",
+        "fullname": "九台市",
+        "quanpin": "jiutaishi",
+        "pinyin": "JTS"
+      },
+      {
+        "code": "230300",
+        "name": "鸡西",
+        "fullname": "鸡西市",
+        "quanpin": "jixishi",
+        "pinyin": "JXS"
+      },
+      {
+        "code": "410881",
+        "name": "济源",
+        "fullname": "济源市",
+        "quanpin": "jiyuanshi",
+        "pinyin": "JYS"
+      },
+      {
+        "code": "131181",
+        "name": "冀州",
+        "fullname": "冀州市",
+        "quanpin": "jizhoushi",
+        "pinyin": "JZS"
+      },
+      {
+        "code": "321183",
+        "name": "句容",
+        "fullname": "句容市",
+        "quanpin": "jurongshi",
+        "pinyin": "JRS"
+      }],
+      "K":[{
+        "code": "410200",
+        "name": "开封",
+        "fullname": "开封市",
+        "quanpin": "kaifengshi",
+        "pinyin": "KFS"
+      },
+      {
+        "code": "522601",
+        "name": "凯里",
+        "fullname": "凯里市",
+        "quanpin": "kailishi",
+        "pinyin": "KLS"
+      },
+      {
+        "code": "440783",
+        "name": "开平",
+        "fullname": "开平市",
+        "quanpin": "kaipingshi",
+        "pinyin": "KPS"
+      },
+      {
+        "code": "532502",
+        "name": "开远",
+        "fullname": "开远市",
+        "quanpin": "kaiyuanshi",
+        "pinyin": "KYS"
+      },
+      {
+        "code": "211282",
+        "name": "开原",
+        "fullname": "开原市",
+        "quanpin": "kaiyuanshi",
+        "pinyin": "KYS"
+      },
+      {
+        "code": "653101",
+        "name": "喀什",
+        "fullname": "喀什市",
+        "quanpin": "kashishi",
+        "pinyin": "KSS"
+      },
+      {
+        "code": "650200",
+        "name": "克拉玛依",
+        "fullname": "克拉玛依市",
+        "quanpin": "kelamayishi",
+        "pinyin": "KLMYS"
+      },
+      {
+        "code": "653000",
+        "name": "克孜勒苏柯尔克孜自治州",
+        "fullname": "克孜勒苏柯尔克孜自治州",
+        "quanpin": "kezilesukeerkezizizh",
+        "pinyin": "KZLSKEKZZZZ"
+      },
+      {
+        "code": "652801",
+        "name": "库尔勒",
+        "fullname": "库尔勒市",
+        "quanpin": "kuerleshi",
+        "pinyin": "KELS"
+      },
+      {
+        "code": "654003",
+        "name": "奎屯",
+        "fullname": "奎屯市",
+        "quanpin": "kuitunshi",
+        "pinyin": "KTS"
+      },
+      {
+        "code": "530100",
+        "name": "昆明",
+        "fullname": "昆明市",
+        "quanpin": "kunmingshi",
+        "pinyin": "KMS"
+      },
+      {
+        "code": "320583",
+        "name": "昆山",
+        "fullname": "昆山市",
+        "quanpin": "kunshanshi",
+        "pinyin": "KSS"
+      }],
+      "L":[{
+        "code": "451300",
+        "name": "来宾",
+        "fullname": "来宾市",
+        "quanpin": "laibinshi",
+        "pinyin": "LBS"
+      },
+      {
+        "code": "371200",
+        "name": "莱芜",
+        "fullname": "莱芜市",
+        "quanpin": "laiwushi",
+        "pinyin": "LWS"
+      },
+      {
+        "code": "370285",
+        "name": "莱西",
+        "fullname": "莱西市",
+        "quanpin": "laixishi",
+        "pinyin": "LXS"
+      },
+      {
+        "code": "370682",
+        "name": "莱阳",
+        "fullname": "莱阳市",
+        "quanpin": "laiyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "370683",
+        "name": "莱州",
+        "fullname": "莱州市",
+        "quanpin": "laizhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "131000",
+        "name": "廊坊",
+        "fullname": "廊坊市",
+        "quanpin": "langfangshi",
+        "pinyin": "LFS"
+      },
+      {
+        "code": "511381",
+        "name": "阆中",
+        "fullname": "阆中市",
+        "quanpin": "langzhongshi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "330781",
+        "name": "兰溪",
+        "fullname": "兰溪市",
+        "quanpin": "lanxishi",
+        "pinyin": "LXS"
+      },
+      {
+        "code": "620100",
+        "name": "兰州",
+        "fullname": "兰州市",
+        "quanpin": "lanzhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "420682",
+        "name": "老河口",
+        "fullname": "老河口市",
+        "quanpin": "laohekoushi",
+        "pinyin": "LHKS"
+      },
+      {
+        "code": "540100",
+        "name": "拉萨",
+        "fullname": "拉萨市",
+        "quanpin": "lasashi",
+        "pinyin": "LSS"
+      },
+      {
+        "code": "440281",
+        "name": "乐昌",
+        "fullname": "乐昌市",
+        "quanpin": "lechangshi",
+        "pinyin": "LCS"
+      },
+      {
+        "code": "430481",
+        "name": "耒阳",
+        "fullname": "耒阳市",
+        "quanpin": "leiyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "440882",
+        "name": "雷州",
+        "fullname": "雷州市",
+        "quanpin": "leizhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "371481",
+        "name": "乐陵",
+        "fullname": "乐陵市",
+        "quanpin": "lelingshi",
+        "pinyin": "LLS"
+      },
+      {
+        "code": "431381",
+        "name": "冷水江",
+        "fullname": "冷水江市",
+        "quanpin": "lengshuijiangshi",
+        "pinyin": "LSJS"
+      },
+      {
+        "code": "360281",
+        "name": "乐平",
+        "fullname": "乐平市",
+        "quanpin": "lepingshi",
+        "pinyin": "LPS"
+      },
+      {
+        "code": "330382",
+        "name": "乐清",
+        "fullname": "乐清市",
+        "quanpin": "leqingshi",
+        "pinyin": "LQS"
+      },
+      {
+        "code": "511100",
+        "name": "乐山",
+        "fullname": "乐山市",
+        "quanpin": "leshanshi",
+        "pinyin": "LSS"
+      },
+      {
+        "code": "513400",
+        "name": "凉山彝族自治州",
+        "fullname": "凉山彝族自治州",
+        "quanpin": "liangshanyizuzizhizh",
+        "pinyin": "LSYZZZZ"
+      },
+      {
+        "code": "440881",
+        "name": "廉江",
+        "fullname": "廉江市",
+        "quanpin": "lianjiangshi",
+        "pinyin": "LJS"
+      },
+      {
+        "code": "431382",
+        "name": "涟源",
+        "fullname": "涟源市",
+        "quanpin": "lianyuanshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "320700",
+        "name": "连云港",
+        "fullname": "连云港市",
+        "quanpin": "lianyungangshi",
+        "pinyin": "LYGS"
+      },
+      {
+        "code": "441882",
+        "name": "连州",
+        "fullname": "连州市",
+        "quanpin": "lianzhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "371500",
+        "name": "聊城",
+        "fullname": "聊城市",
+        "quanpin": "liaochengshi",
+        "pinyin": "LCS"
+      },
+      {
+        "code": "211000",
+        "name": "辽阳",
+        "fullname": "辽阳市",
+        "quanpin": "liaoyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "220400",
+        "name": "辽源",
+        "fullname": "辽源市",
+        "quanpin": "liaoyuanshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "422802",
+        "name": "利川",
+        "fullname": "利川市",
+        "quanpin": "lichuanshi",
+        "pinyin": "LCS"
+      },
+      {
+        "code": "530700",
+        "name": "丽江",
+        "fullname": "丽江市",
+        "quanpin": "lijiangshi",
+        "pinyin": "LJS"
+      },
+      {
+        "code": "430281",
+        "name": "醴陵",
+        "fullname": "醴陵市",
+        "quanpin": "lilingshi",
+        "pinyin": "LLS"
+      },
+      {
+        "code": "330185",
+        "name": "临安",
+        "fullname": "临安市",
+        "quanpin": "linanshi",
+        "pinyin": "LAS"
+      },
+      {
+        "code": "530900",
+        "name": "临沧",
+        "fullname": "临沧市",
+        "quanpin": "lincangshi",
+        "pinyin": "LCS"
+      },
+      {
+        "code": "141000",
+        "name": "临汾",
+        "fullname": "临汾市",
+        "quanpin": "linfenshi",
+        "pinyin": "LFS"
+      },
+      {
+        "code": "411282",
+        "name": "灵宝",
+        "fullname": "灵宝市",
+        "quanpin": "lingbaoshi",
+        "pinyin": "LBS"
+      },
+      {
+        "code": "210781",
+        "name": "凌海",
+        "fullname": "凌海市",
+        "quanpin": "linghaishi",
+        "pinyin": "LHS"
+      },
+      {
+        "code": "640181",
+        "name": "灵武",
+        "fullname": "灵武市",
+        "quanpin": "lingwushi",
+        "pinyin": "LWS"
+      },
+      {
+        "code": "211382",
+        "name": "凌源",
+        "fullname": "凌源市",
+        "quanpin": "lingyuanshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "331082",
+        "name": "临海",
+        "fullname": "临海市",
+        "quanpin": "linhaishi",
+        "pinyin": "LHS"
+      },
+      {
+        "code": "220681",
+        "name": "临江",
+        "fullname": "临江市",
+        "quanpin": "linjiangshi",
+        "pinyin": "LJS"
+      },
+      {
+        "code": "371581",
+        "name": "临清",
+        "fullname": "临清市",
+        "quanpin": "linqingshi",
+        "pinyin": "LQS"
+      },
+      {
+        "code": "622900",
+        "name": "临夏回族自治州",
+        "fullname": "临夏回族自治州",
+        "quanpin": "linxiahuizuzizhizhou",
+        "pinyin": "LXHZZZZ"
+      },
+      {
+        "code": "430682",
+        "name": "临湘",
+        "fullname": "临湘市",
+        "quanpin": "linxiangshi",
+        "pinyin": "LXS"
+      },
+      {
+        "code": "622901",
+        "name": "临夏",
+        "fullname": "临夏市",
+        "quanpin": "linxiashi",
+        "pinyin": "LXS"
+      },
+      {
+        "code": "371300",
+        "name": "临沂",
+        "fullname": "临沂市",
+        "quanpin": "linyishi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "410581",
+        "name": "林州",
+        "fullname": "林州市",
+        "quanpin": "linzhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "331100",
+        "name": "丽水",
+        "fullname": "丽水市",
+        "quanpin": "lishuishi",
+        "pinyin": "LSS"
+      },
+      {
+        "code": "341500",
+        "name": "六安",
+        "fullname": "六安市",
+        "quanpin": "liuanshi",
+        "pinyin": "LAS"
+      },
+      {
+        "code": "520200",
+        "name": "六盘水",
+        "fullname": "六盘水市",
+        "quanpin": "liupanshuishi",
+        "pinyin": "LPSS"
+      },
+      {
+        "code": "430181",
+        "name": "浏阳",
+        "fullname": "浏阳市",
+        "quanpin": "liuyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "450200",
+        "name": "柳州",
+        "fullname": "柳州市",
+        "quanpin": "liuzhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "320481",
+        "name": "溧阳",
+        "fullname": "溧阳市",
+        "quanpin": "liyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "350681",
+        "name": "龙海",
+        "fullname": "龙海市",
+        "quanpin": "longhaishi",
+        "pinyin": "LHS"
+      },
+      {
+        "code": "222405",
+        "name": "龙井",
+        "fullname": "龙井市",
+        "quanpin": "longjingshi",
+        "pinyin": "LJS"
+      },
+      {
+        "code": "370681",
+        "name": "龙口",
+        "fullname": "龙口市",
+        "quanpin": "longkoushi",
+        "pinyin": "LKS"
+      },
+      {
+        "code": "621200",
+        "name": "陇南",
+        "fullname": "陇南市",
+        "quanpin": "longnanshi",
+        "pinyin": "LNS"
+      },
+      {
+        "code": "331181",
+        "name": "龙泉",
+        "fullname": "龙泉市",
+        "quanpin": "longquanshi",
+        "pinyin": "LQS"
+      },
+      {
+        "code": "350800",
+        "name": "龙岩",
+        "fullname": "龙岩市",
+        "quanpin": "longyanshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "431300",
+        "name": "娄底",
+        "fullname": "娄底市",
+        "quanpin": "loudishi",
+        "pinyin": "LDS"
+      },
+      {
+        "code": "140481",
+        "name": "潞城",
+        "fullname": "潞城市",
+        "quanpin": "luchengshi",
+        "pinyin": "LCS"
+      },
+      {
+        "code": "441581",
+        "name": "陆丰",
+        "fullname": "陆丰市",
+        "quanpin": "lufengshi",
+        "pinyin": "LFS"
+      },
+      {
+        "code": "445381",
+        "name": "罗定",
+        "fullname": "罗定市",
+        "quanpin": "luodingshi",
+        "pinyin": "LDS"
+      },
+      {
+        "code": "411100",
+        "name": "漯河",
+        "fullname": "漯河市",
+        "quanpin": "luoheshi",
+        "pinyin": "LHS"
+      },
+      {
+        "code": "410300",
+        "name": "洛阳",
+        "fullname": "洛阳市",
+        "quanpin": "luoyangshi",
+        "pinyin": "LYS"
+      },
+      {
+        "code": "130185",
+        "name": "鹿泉",
+        "fullname": "鹿泉市",
+        "quanpin": "luquanshi",
+        "pinyin": "LQS"
+      },
+      {
+        "code": "533103",
+        "name": "潞西",
+        "fullname": "潞西市",
+        "quanpin": "luxishi",
+        "pinyin": "LXS"
+      },
+      {
+        "code": "510500",
+        "name": "泸州",
+        "fullname": "泸州市",
+        "quanpin": "luzhoushi",
+        "pinyin": "LZS"
+      },
+      {
+        "code": "141100",
+        "name": "吕梁",
+        "fullname": "吕梁市",
+        "quanpin": "lvliangshi",
+        "pinyin": "LLS"
+      }],
+      "M":[{
+        "code": "340500",
+        "name": "马鞍山",
+        "fullname": "马鞍山市",
+        "quanpin": "maanshanshi",
+        "pinyin": "MASS"
+      },
+      {
+        "code": "421181",
+        "name": "麻城",
+        "fullname": "麻城市",
+        "quanpin": "machengshi",
+        "pinyin": "MCS"
+      },
+      {
+        "code": "150781",
+        "name": "满洲里",
+        "fullname": "满洲里市",
+        "quanpin": "manzhoulishi",
+        "pinyin": "MZLS"
+      },
+      {
+        "code": "440900",
+        "name": "茂名",
+        "fullname": "茂名市",
+        "quanpin": "maomingshi",
+        "pinyin": "MMS"
+      },
+      {
+        "code": "220581",
+        "name": "梅河口",
+        "fullname": "梅河口市",
+        "quanpin": "meihekoushi",
+        "pinyin": "MHKS"
+      },
+      {
+        "code": "511400",
+        "name": "眉山",
+        "fullname": "眉山市",
+        "quanpin": "meishanshi",
+        "pinyin": "MSS"
+      },
+      {
+        "code": "441400",
+        "name": "梅州",
+        "fullname": "梅州市",
+        "quanpin": "meizhoushi",
+        "pinyin": "MZS"
+      },
+      {
+        "code": "410883",
+        "name": "孟州",
+        "fullname": "孟州市",
+        "quanpin": "mengzhoushi",
+        "pinyin": "MZS"
+      },
+      {
+        "code": "510700",
+        "name": "绵阳",
+        "fullname": "绵阳市",
+        "quanpin": "mianyangshi",
+        "pinyin": "MYS"
+      },
+      {
+        "code": "510683",
+        "name": "绵竹",
+        "fullname": "绵竹市",
+        "quanpin": "mianzhushi",
+        "pinyin": "MZS"
+      },
+      {
+        "code": "430681",
+        "name": "汨罗",
+        "fullname": "汨罗市",
+        "quanpin": "miluoshi",
+        "pinyin": "MLS"
+      },
+      {
+        "code": "341182",
+        "name": "明光",
+        "fullname": "明光市",
+        "quanpin": "mingguangshi",
+        "pinyin": "MGS"
+      },
+      {
+        "code": "652303",
+        "name": "米泉",
+        "fullname": "米泉市",
+        "quanpin": "miquanshi",
+        "pinyin": "MQS"
+      },
+      {
+        "code": "230382",
+        "name": "密山",
+        "fullname": "密山市",
+        "quanpin": "mishanshi",
+        "pinyin": "MSS"
+      },
+      {
+        "code": "231000",
+        "name": "牡丹江",
+        "fullname": "牡丹江市",
+        "quanpin": "mudanjiangshi",
+        "pinyin": "MDJS"
+      },
+      {
+        "code": "231085",
+        "name": "穆棱",
+        "fullname": "穆棱市",
+        "quanpin": "mulingshi",
+        "pinyin": "MLS"
+      }],
+      "N":[{
+        "code": "350583",
+        "name": "南安",
+        "fullname": "南安市",
+        "quanpin": "nananshi",
+        "pinyin": "NAS"
+      },
+      {
+        "code": "360100",
+        "name": "南昌",
+        "fullname": "南昌市",
+        "quanpin": "nanchangshi",
+        "pinyin": "NCS"
+      },
+      {
+        "code": "511300",
+        "name": "南充",
+        "fullname": "南充市",
+        "quanpin": "nanchongshi",
+        "pinyin": "NCS"
+      },
+      {
+        "code": "130581",
+        "name": "南宫",
+        "fullname": "南宫市",
+        "quanpin": "nangongshi",
+        "pinyin": "NGS"
+      },
+      {
+        "code": "320100",
+        "name": "南京",
+        "fullname": "南京市",
+        "quanpin": "nanjingshi",
+        "pinyin": "NJS"
+      },
+      {
+        "code": "360782",
+        "name": "南康",
+        "fullname": "南康市",
+        "quanpin": "nankangshi",
+        "pinyin": "NKS"
+      },
+      {
+        "code": "450100",
+        "name": "南宁",
+        "fullname": "南宁市",
+        "quanpin": "nanningshi",
+        "pinyin": "NNS"
+      },
+      {
+        "code": "350700",
+        "name": "南平",
+        "fullname": "南平市",
+        "quanpin": "nanpingshi",
+        "pinyin": "NPS"
+      },
+      {
+        "code": "320600",
+        "name": "南通",
+        "fullname": "南通市",
+        "quanpin": "nantongshi",
+        "pinyin": "NTS"
+      },
+      {
+        "code": "440282",
+        "name": "南雄",
+        "fullname": "南雄市",
+        "quanpin": "nanxiongshi",
+        "pinyin": "NXS"
+      },
+      {
+        "code": "411300",
+        "name": "南阳",
+        "fullname": "南阳市",
+        "quanpin": "nanyangshi",
+        "pinyin": "NYS"
+      },
+      {
+        "code": "230281",
+        "name": "讷河",
+        "fullname": "讷河市",
+        "quanpin": "neheshi",
+        "pinyin": "NHS"
+      },
+      {
+        "code": "511000",
+        "name": "内江",
+        "fullname": "内江市",
+        "quanpin": "neijiangshi",
+        "pinyin": "NJS"
+      },
+      {
+        "code": "231084",
+        "name": "宁安",
+        "fullname": "宁安市",
+        "quanpin": "ninganshi",
+        "pinyin": "NAS"
+      },
+      {
+        "code": "330200",
+        "name": "宁波",
+        "fullname": "宁波市",
+        "quanpin": "ningboshi",
+        "pinyin": "NBS"
+      },
+      {
+        "code": "350900",
+        "name": "宁德",
+        "fullname": "宁德市",
+        "quanpin": "ningdeshi",
+        "pinyin": "NDS"
+      },
+      {
+        "code": "341881",
+        "name": "宁国",
+        "fullname": "宁国市",
+        "quanpin": "ningguoshi",
+        "pinyin": "NGS"
+      },
+      {
+        "code": "533300",
+        "name": "怒江傈僳族自治州",
+        "fullname": "怒江傈僳族自治州",
+        "quanpin": "nujianglisuzuzizhizh",
+        "pinyin": "NJLSZZZZ"
+      }],
+      "P":[{
+        "code": "211100",
+        "name": "盘锦",
+        "fullname": "盘锦市",
+        "quanpin": "panjinshi",
+        "pinyin": "PJS"
+      },
+      {
+        "code": "220284",
+        "name": "磐石",
+        "fullname": "磐石市",
+        "quanpin": "panshishi",
+        "pinyin": "PSS"
+      },
+      {
+        "code": "510400",
+        "name": "攀枝花",
+        "fullname": "攀枝花市",
+        "quanpin": "panzhihuashi",
+        "pinyin": "PZHS"
+      },
+      {
+        "code": "370684",
+        "name": "蓬莱",
+        "fullname": "蓬莱市",
+        "quanpin": "penglaishi",
+        "pinyin": "PLS"
+      },
+      {
+        "code": "510182",
+        "name": "彭州",
+        "fullname": "彭州市",
+        "quanpin": "pengzhoushi",
+        "pinyin": "PZS"
+      },
+      {
+        "code": "410400",
+        "name": "平顶山",
+        "fullname": "平顶山市",
+        "quanpin": "pingdingshanshi",
+        "pinyin": "PDSS"
+      },
+      {
+        "code": "370283",
+        "name": "平度",
+        "fullname": "平度市",
+        "quanpin": "pingdushi",
+        "pinyin": "PDS"
+      },
+      {
+        "code": "330482",
+        "name": "平湖",
+        "fullname": "平湖市",
+        "quanpin": "pinghushi",
+        "pinyin": "PHS"
+      },
+      {
+        "code": "620800",
+        "name": "平凉",
+        "fullname": "平凉市",
+        "quanpin": "pingliangshi",
+        "pinyin": "PLS"
+      },
+      {
+        "code": "360300",
+        "name": "萍乡",
+        "fullname": "萍乡市",
+        "quanpin": "pingxiangshi",
+        "pinyin": "PXS"
+      },
+      {
+        "code": "451481",
+        "name": "凭祥",
+        "fullname": "凭祥市",
+        "quanpin": "pingxiangshi",
+        "pinyin": "PXS"
+      },
+      {
+        "code": "320382",
+        "name": "邳州",
+        "fullname": "邳州市",
+        "quanpin": "pizhoushi",
+        "pinyin": "PZS"
+      },
+      {
+        "code": "210282",
+        "name": "普兰店",
+        "fullname": "普兰店市",
+        "quanpin": "pulandianshi",
+        "pinyin": "PLDS"
+      },
+      {
+        "code": "445281",
+        "name": "普宁",
+        "fullname": "普宁市",
+        "quanpin": "puningshi",
+        "pinyin": "PNS"
+      },
+      {
+        "code": "350300",
+        "name": "莆田",
+        "fullname": "莆田市",
+        "quanpin": "putianshi",
+        "pinyin": "PTS"
+      },
+      {
+        "code": "410900",
+        "name": "濮阳",
+        "fullname": "濮阳市",
+        "quanpin": "puyangshi",
+        "pinyin": "PYS"
+      }],
+      "Q":[{
+        "code": "130283",
+        "name": "迁安",
+        "fullname": "迁安市",
+        "quanpin": "qiananshi",
+        "pinyin": "QAS"
+      },
+      {
+        "code": "522600",
+        "name": "黔东南苗族侗族自治州",
+        "fullname": "黔东南苗族侗族自治州",
+        "quanpin": "qiandongnanmiaozudon",
+        "pinyin": "QDNMZDZZZZ"
+      },
+      {
+        "code": "429005",
+        "name": "潜江",
+        "fullname": "潜江市",
+        "quanpin": "qianjiangshi",
+        "pinyin": "QJS"
+      },
+      {
+        "code": "522700",
+        "name": "黔南布依族苗族自治州",
+        "fullname": "黔南布依族苗族自治州",
+        "quanpin": "qiannanbuyizumiaozuz",
+        "pinyin": "QNBYZMZZZZ"
+      },
+      {
+        "code": "522300",
+        "name": "黔西南布依族苗族自治州",
+        "fullname": "黔西南布依族苗族自治州",
+        "quanpin": "qianxinanbuyizumiaoz",
+        "pinyin": "QXNBYZMZZZZ"
+      },
+      {
+        "code": "320681",
+        "name": "启东",
+        "fullname": "启东市",
+        "quanpin": "qidongshi",
+        "pinyin": "QDS"
+      },
+      {
+        "code": "370200",
+        "name": "青岛",
+        "fullname": "青岛市",
+        "quanpin": "qingdaoshi",
+        "pinyin": "QDS"
+      },
+      {
+        "code": "640381",
+        "name": "青铜峡",
+        "fullname": "青铜峡市",
+        "quanpin": "qingtongxiashi",
+        "pinyin": "QTXS"
+      },
+      {
+        "code": "621000",
+        "name": "庆阳",
+        "fullname": "庆阳市",
+        "quanpin": "qingyangshi",
+        "pinyin": "QYS"
+      },
+      {
+        "code": "441800",
+        "name": "清远",
+        "fullname": "清远市",
+        "quanpin": "qingyuanshi",
+        "pinyin": "QYS"
+      },
+      {
+        "code": "520181",
+        "name": "清镇",
+        "fullname": "清镇市",
+        "quanpin": "qingzhenshi",
+        "pinyin": "QZS"
+      },
+      {
+        "code": "370781",
+        "name": "青州",
+        "fullname": "青州市",
+        "quanpin": "qingzhoushi",
+        "pinyin": "QZS"
+      },
+      {
+        "code": "130300",
+        "name": "秦皇岛",
+        "fullname": "秦皇岛市",
+        "quanpin": "qinhuangdaoshi",
+        "pinyin": "QHDS"
+      },
+      {
+        "code": "410882",
+        "name": "沁阳",
+        "fullname": "沁阳市",
+        "quanpin": "qinyangshi",
+        "pinyin": "QYS"
+      },
+      {
+        "code": "450700",
+        "name": "钦州",
+        "fullname": "钦州市",
+        "quanpin": "qinzhoushi",
+        "pinyin": "QZS"
+      },
+      {
+        "code": "469002",
+        "name": "琼海",
+        "fullname": "琼海市",
+        "quanpin": "qionghaishi",
+        "pinyin": "QHS"
+      },
+      {
+        "code": "510183",
+        "name": "邛崃",
+        "fullname": "邛崃市",
+        "quanpin": "qionglaishi",
+        "pinyin": "QLS"
+      },
+      {
+        "code": "230200",
+        "name": "齐齐哈尔",
+        "fullname": "齐齐哈尔市",
+        "quanpin": "qiqihaershi",
+        "pinyin": "QQHES"
+      },
+      {
+        "code": "230900",
+        "name": "七台河",
+        "fullname": "七台河市",
+        "quanpin": "qitaiheshi",
+        "pinyin": "QTHS"
+      },
+      {
+        "code": "370686",
+        "name": "栖霞",
+        "fullname": "栖霞市",
+        "quanpin": "qixiashi",
+        "pinyin": "QXS"
+      },
+      {
+        "code": "350500",
+        "name": "泉州",
+        "fullname": "泉州市",
+        "quanpin": "quanzhoushi",
+        "pinyin": "QZS"
+      },
+      {
+        "code": "370881",
+        "name": "曲阜",
+        "fullname": "曲阜市",
+        "quanpin": "qufushi",
+        "pinyin": "QFS"
+      },
+      {
+        "code": "530300",
+        "name": "曲靖",
+        "fullname": "曲靖市",
+        "quanpin": "qujingshi",
+        "pinyin": "QJS"
+      },
+      {
+        "code": "330800",
+        "name": "衢州",
+        "fullname": "衢州市",
+        "quanpin": "quzhoushi",
+        "pinyin": "QZS"
+      }],
+      "R":[{
+        "code": "520382",
+        "name": "仁怀",
+        "fullname": "仁怀市",
+        "quanpin": "renhuaishi",
+        "pinyin": "RHS"
+      },
+      {
+        "code": "130982",
+        "name": "任丘",
+        "fullname": "任丘市",
+        "quanpin": "renqiushi",
+        "pinyin": "RQS"
+      },
+      {
+        "code": "542301",
+        "name": "日喀则",
+        "fullname": "日喀则市",
+        "quanpin": "rikazeshi",
+        "pinyin": "RKZS"
+      },
+      {
+        "code": "371100",
+        "name": "日照",
+        "fullname": "日照市",
+        "quanpin": "rizhaoshi",
+        "pinyin": "RZS"
+      },
+      {
+        "code": "371082",
+        "name": "荣成",
+        "fullname": "荣成市",
+        "quanpin": "rongchengshi",
+        "pinyin": "RCS"
+      },
+      {
+        "code": "320682",
+        "name": "如皋",
+        "fullname": "如皋市",
+        "quanpin": "rugaoshi",
+        "pinyin": "RGS"
+      },
+      {
+        "code": "330381",
+        "name": "瑞安",
+        "fullname": "瑞安市",
+        "quanpin": "ruianshi",
+        "pinyin": "RAS"
+      },
+      {
+        "code": "360481",
+        "name": "瑞昌",
+        "fullname": "瑞昌市",
+        "quanpin": "ruichangshi",
+        "pinyin": "RCS"
+      },
+      {
+        "code": "360781",
+        "name": "瑞金",
+        "fullname": "瑞金市",
+        "quanpin": "ruijinshi",
+        "pinyin": "RJS"
+      },
+      {
+        "code": "533102",
+        "name": "瑞丽",
+        "fullname": "瑞丽市",
+        "quanpin": "ruilishi",
+        "pinyin": "RLS"
+      },
+      {
+        "code": "371083",
+        "name": "乳山",
+        "fullname": "乳山市",
+        "quanpin": "rushanshi",
+        "pinyin": "RSS"
+      },
+      {
+        "code": "410482",
+        "name": "汝州",
+        "fullname": "汝州市",
+        "quanpin": "ruzhoushi",
+        "pinyin": "RZS"
+      }],
+      "S":[{
+        "code": "131082",
+        "name": "三河",
+        "fullname": "三河市",
+        "quanpin": "sanheshi",
+        "pinyin": "SHS"
+      },
+      {
+        "code": "411200",
+        "name": "三门峡",
+        "fullname": "三门峡市",
+        "quanpin": "sanmenxiashi",
+        "pinyin": "SMXS"
+      },
+      {
+        "code": "350400",
+        "name": "三明",
+        "fullname": "三明市",
+        "quanpin": "sanmingshi",
+        "pinyin": "SMS"
+      },
+      {
+        "code": "460200",
+        "name": "三亚",
+        "fullname": "三亚市",
+        "quanpin": "sanyashi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "130582",
+        "name": "沙河",
+        "fullname": "沙河市",
+        "quanpin": "shaheshi",
+        "pinyin": "SHS"
+      },
+      {
+        "code": "310000",
+        "name": "上海",
+        "fullname": "上海市",
+        "quanpin": "shanghaishi",
+        "pinyin": "SHS"
+      },
+      {
+        "code": "310113",
+        "name": "上海宝山区",
+        "fullname": "上海市宝山区",
+        "quanpin": "shanghaishibaoshanqu",
+        "pinyin": "SHSBSQ"
+      },
+      {
+        "code": "310105",
+        "name": "上海长宁区",
+        "fullname": "上海市长宁区",
+        "quanpin": "shanghaishichangningqu",
+        "pinyin": "SHSCNQ"
+      },
+      {
+        "code": "310230",
+        "name": "上海崇明县",
+        "fullname": "上海市崇明县",
+        "quanpin": "shanghaishichongmingxian",
+        "pinyin": "SHSCMX"
+      },
+      {
+        "code": "310120",
+        "name": "上海奉贤区",
+        "fullname": "上海市奉贤区",
+        "quanpin": "shanghaishifengxianqu",
+        "pinyin": "SHSFXQ"
+      },
+      {
+        "code": "310109",
+        "name": "上海虹口区",
+        "fullname": "上海市虹口区",
+        "quanpin": "shanghaishihongkouqu",
+        "pinyin": "SHSHKQ"
+      },
+      {
+        "code": "310101",
+        "name": "上海黄浦区",
+        "fullname": "上海市黄浦区",
+        "quanpin": "shanghaishihuangpuqu",
+        "pinyin": "SHSHPQ"
+      },
+      {
+        "code": "310114",
+        "name": "上海嘉定区",
+        "fullname": "上海市嘉定区",
+        "quanpin": "shanghaishijiadingqu",
+        "pinyin": "SHSJDQ"
+      },
+      {
+        "code": "310106",
+        "name": "上海静安区",
+        "fullname": "上海市静安区",
+        "quanpin": "shanghaishijinganqu",
+        "pinyin": "SHSJAQ"
+      },
+      {
+        "code": "310116",
+        "name": "上海金山区",
+        "fullname": "上海市金山区",
+        "quanpin": "shanghaishijinshanqu",
+        "pinyin": "SHSJSQ"
+      },
+      {
+        "code": "310103",
+        "name": "上海卢湾区",
+        "fullname": "上海市卢湾区",
+        "quanpin": "shanghaishiluwanqu",
+        "pinyin": "SHSLWQ"
+      },
+      {
+        "code": "310112",
+        "name": "上海闵行区",
+        "fullname": "上海市闵行区",
+        "quanpin": "shanghaishiminxingqu",
+        "pinyin": "SHSMXQ"
+      },
+      {
+        "code": "310115",
+        "name": "上海浦东新区",
+        "fullname": "上海市浦东新区",
+        "quanpin": "shanghaishipudongxinqu",
+        "pinyin": "SHSPDXQ"
+      },
+      {
+        "code": "310107",
+        "name": "上海普陀区",
+        "fullname": "上海市普陀区",
+        "quanpin": "shanghaishiputuoqu",
+        "pinyin": "SHSPTQ"
+      },
+      {
+        "code": "310118",
+        "name": "上海青浦区",
+        "fullname": "上海市青浦区",
+        "quanpin": "shanghaishiqingpuqu",
+        "pinyin": "SHSQPQ"
+      },
+      {
+        "code": "310117",
+        "name": "上海松江区",
+        "fullname": "上海市松江区",
+        "quanpin": "shanghaishisongjiangqu",
+        "pinyin": "SHSSJQ"
+      },
+      {
+        "code": "310104",
+        "name": "上海徐汇区",
+        "fullname": "上海市徐汇区",
+        "quanpin": "shanghaishixuhuiqu",
+        "pinyin": "SHSXHQ"
+      },
+      {
+        "code": "310110",
+        "name": "上海杨浦区",
+        "fullname": "上海市杨浦区",
+        "quanpin": "shanghaishiyangpuqu",
+        "pinyin": "SHSYPQ"
+      },
+      {
+        "code": "310108",
+        "name": "上海闸北区",
+        "fullname": "上海市闸北区",
+        "quanpin": "shanghaishizhabeiqu",
+        "pinyin": "SHSZBQ"
+      },
+      {
+        "code": "611000",
+        "name": "商洛",
+        "fullname": "商洛市",
+        "quanpin": "shangluoshi",
+        "pinyin": "SLS"
+      },
+      {
+        "code": "411400",
+        "name": "商丘",
+        "fullname": "商丘市",
+        "quanpin": "shangqiushi",
+        "pinyin": "SQS"
+      },
+      {
+        "code": "361100",
+        "name": "上饶",
+        "fullname": "上饶市",
+        "quanpin": "shangraoshi",
+        "pinyin": "SRS"
+      },
+      {
+        "code": "330682",
+        "name": "上虞",
+        "fullname": "上虞市",
+        "quanpin": "shangyushi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "230183",
+        "name": "尚志",
+        "fullname": "尚志市",
+        "quanpin": "shangzhishi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "440500",
+        "name": "汕头",
+        "fullname": "汕头市",
+        "quanpin": "shantoushi",
+        "pinyin": "STS"
+      },
+      {
+        "code": "441500",
+        "name": "汕尾",
+        "fullname": "汕尾市",
+        "quanpin": "shanweishi",
+        "pinyin": "SWS"
+      },
+      {
+        "code": "440200",
+        "name": "韶关",
+        "fullname": "韶关市",
+        "quanpin": "shaoguanshi",
+        "pinyin": "SGS"
+      },
+      {
+        "code": "430382",
+        "name": "韶山",
+        "fullname": "韶山市",
+        "quanpin": "shaoshanshi",
+        "pinyin": "SSS"
+      },
+      {
+        "code": "350781",
+        "name": "邵武",
+        "fullname": "邵武市",
+        "quanpin": "shaowushi",
+        "pinyin": "SWS"
+      },
+      {
+        "code": "330600",
+        "name": "绍兴",
+        "fullname": "绍兴市",
+        "quanpin": "shaoxingshi",
+        "pinyin": "SXS"
+      },
+      {
+        "code": "430500",
+        "name": "邵阳",
+        "fullname": "邵阳市",
+        "quanpin": "shaoyangshi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "510682",
+        "name": "什邡",
+        "fullname": "什邡市",
+        "quanpin": "shenfangshi",
+        "pinyin": "SFS"
+      },
+      {
+        "code": "330683",
+        "name": "嵊州",
+        "fullname": "嵊州市",
+        "quanpin": "shengzhoushi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "210100",
+        "name": "沈阳",
+        "fullname": "沈阳市",
+        "quanpin": "shenyangshi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "440300",
+        "name": "深圳",
+        "fullname": "深圳市",
+        "quanpin": "shenzhenshi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "131182",
+        "name": "深州",
+        "fullname": "深州市",
+        "quanpin": "shenzhoushi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "659001",
+        "name": "石河子",
+        "fullname": "石河子市",
+        "quanpin": "shihezishi",
+        "pinyin": "SHZS"
+      },
+      {
+        "code": "130100",
+        "name": "石家庄",
+        "fullname": "石家庄市",
+        "quanpin": "shijiazhuangshi",
+        "pinyin": "SJZS"
+      },
+      {
+        "code": "350581",
+        "name": "石狮",
+        "fullname": "石狮市",
+        "quanpin": "shishishi",
+        "pinyin": "SSS"
+      },
+      {
+        "code": "421081",
+        "name": "石首",
+        "fullname": "石首市",
+        "quanpin": "shishoushi",
+        "pinyin": "SSS"
+      },
+      {
+        "code": "420300",
+        "name": "十堰",
+        "fullname": "十堰市",
+        "quanpin": "shiyanshi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "640200",
+        "name": "石嘴山",
+        "fullname": "石嘴山市",
+        "quanpin": "shizuishanshi",
+        "pinyin": "SZSS"
+      },
+      {
+        "code": "370783",
+        "name": "寿光",
+        "fullname": "寿光市",
+        "quanpin": "shouguangshi",
+        "pinyin": "SGS"
+      },
+      {
+        "code": "230182",
+        "name": "双城",
+        "fullname": "双城市",
+        "quanpin": "shuangchengshi",
+        "pinyin": "SCS"
+      },
+      {
+        "code": "220382",
+        "name": "双辽",
+        "fullname": "双辽市",
+        "quanpin": "shuangliaoshi",
+        "pinyin": "SLS"
+      },
+      {
+        "code": "230500",
+        "name": "双鸭山",
+        "fullname": "双鸭山市",
+        "quanpin": "shuangyashanshi",
+        "pinyin": "SYSS"
+      },
+      {
+        "code": "220283",
+        "name": "舒兰",
+        "fullname": "舒兰市",
+        "quanpin": "shulanshi",
+        "pinyin": "SLS"
+      },
+      {
+        "code": "140600",
+        "name": "朔州",
+        "fullname": "朔州市",
+        "quanpin": "shuozhoushi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "441284",
+        "name": "四会",
+        "fullname": "四会市",
+        "quanpin": "sihuishi",
+        "pinyin": "SHS"
+      },
+      {
+        "code": "530800",
+        "name": "普洱",
+        "fullname": "普洱市",
+        "quanpin": "simaoshi",
+        "pinyin": "SMS"
+      },
+      {
+        "code": "220300",
+        "name": "四平",
+        "fullname": "四平市",
+        "quanpin": "sipingshi",
+        "pinyin": "SPS"
+      },
+      {
+        "code": "220700",
+        "name": "松原",
+        "fullname": "松原市",
+        "quanpin": "songyuanshi",
+        "pinyin": "SYS"
+      },
+      {
+        "code": "421087",
+        "name": "松滋",
+        "fullname": "松滋市",
+        "quanpin": "songzishi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "231081",
+        "name": "绥芬河",
+        "fullname": "绥芬河市",
+        "quanpin": "suifenheshi",
+        "pinyin": "SFHS"
+      },
+      {
+        "code": "231200",
+        "name": "绥化",
+        "fullname": "绥化市",
+        "quanpin": "suihuashi",
+        "pinyin": "SHS"
+      },
+      {
+        "code": "510900",
+        "name": "遂宁",
+        "fullname": "遂宁市",
+        "quanpin": "suiningshi",
+        "pinyin": "SNS"
+      },
+      {
+        "code": "421300",
+        "name": "随州",
+        "fullname": "随州市",
+        "quanpin": "suizhoushi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "321300",
+        "name": "宿迁",
+        "fullname": "宿迁市",
+        "quanpin": "suqianshi",
+        "pinyin": "SQS"
+      },
+      {
+        "code": "341300",
+        "name": "宿州",
+        "fullname": "宿州市",
+        "quanpin": "suzhoushi",
+        "pinyin": "SZS"
+      },
+      {
+        "code": "320500",
+        "name": "苏州",
+        "fullname": "苏州市",
+        "quanpin": "suzhoushi",
+        "pinyin": "SZS"
+      }],
+      "T":[{
+        "code": "654201",
+        "name": "塔城",
+        "fullname": "塔城市",
+        "quanpin": "tachengshi",
+        "pinyin": "TCS"
+      },
+      {
+        "code": "370900",
+        "name": "泰安",
+        "fullname": "泰安市",
+        "quanpin": "taianshi",
+        "pinyin": "TAS"
+      },
+      {
+        "code": "320585",
+        "name": "太仓",
+        "fullname": "太仓市",
+        "quanpin": "taicangshi",
+        "pinyin": "TCS"
+      },
+      {
+        "code": "440781",
+        "name": "台山",
+        "fullname": "台山市",
+        "quanpin": "taishanshi",
+        "pinyin": "TSS"
+      },
+      {
+        "code": "321283",
+        "name": "泰兴",
+        "fullname": "泰兴市",
+        "quanpin": "taixingshi",
+        "pinyin": "TXS"
+      },
+      {
+        "code": "140100",
+        "name": "太原",
+        "fullname": "太原市",
+        "quanpin": "taiyuanshi",
+        "pinyin": "TYS"
+      },
+      {
+        "code": "331000",
+        "name": "台州",
+        "fullname": "台州市",
+        "quanpin": "taizhoushi",
+        "pinyin": "TZS"
+      },
+      {
+        "code": "321200",
+        "name": "泰州",
+        "fullname": "泰州市",
+        "quanpin": "taizhoushi",
+        "pinyin": "TZS"
+      },
+      {
+        "code": "130200",
+        "name": "唐山",
+        "fullname": "唐山市",
+        "quanpin": "tangshanshi",
+        "pinyin": "TSS"
+      },
+      {
+        "code": "220881",
+        "name": "洮南",
+        "fullname": "洮南市",
+        "quanpin": "taonanshi",
+        "pinyin": "TNS"
+      },
+      {
+        "code": "370481",
+        "name": "滕州",
+        "fullname": "滕州市",
+        "quanpin": "tengzhoushi",
+        "pinyin": "TZS"
+      },
+      {
+        "code": "341181",
+        "name": "天长",
+        "fullname": "天长市",
+        "quanpin": "tianchangshi",
+        "pinyin": "TCS"
+      },
+      {
+        "code": "120000",
+        "name": "天津",
+        "fullname": "天津市",
+        "quanpin": "tianjinshi",
+        "pinyin": "TJS"
+      },
+      {
+        "code": "120115",
+        "name": "天津宝坻区",
+        "fullname": "天津市宝坻区",
+        "quanpin": "tianjinshibaodiqu",
+        "pinyin": "TJSBDQ"
+      },
+      {
+        "code": "120113",
+        "name": "天津北辰区",
+        "fullname": "天津市北辰区",
+        "quanpin": "tianjinshibeichenqu",
+        "pinyin": "TJSBCQ"
+      },
+      {
+        "code": "120109",
+        "name": "天津大港区",
+        "fullname": "天津市大港区",
+        "quanpin": "tianjinshidagangqu",
+        "pinyin": "TJSDGQ"
+      },
+      {
+        "code": "120110",
+        "name": "天津东丽区",
+        "fullname": "天津市东丽区",
+        "quanpin": "tianjinshidongliqu",
+        "pinyin": "TJSDLQ"
+      },
+      {
+        "code": "120108",
+        "name": "天津汉沽区",
+        "fullname": "天津市汉沽区",
+        "quanpin": "tianjinshihanguqu",
+        "pinyin": "TJSHGQ"
+      },
+      {
+        "code": "120105",
+        "name": "天津河北区",
+        "fullname": "天津市河北区",
+        "quanpin": "tianjinshihebeiqu",
+        "pinyin": "TJSHBQ"
+      },
+      {
+        "code": "120102",
+        "name": "天津河东区",
+        "fullname": "天津市河东区",
+        "quanpin": "tianjinshihedongqu",
+        "pinyin": "TJSHDQ"
+      },
+      {
+        "code": "120101",
+        "name": "天津和平区",
+        "fullname": "天津市和平区",
+        "quanpin": "tianjinshihepingqu",
+        "pinyin": "TJSHPQ"
+      },
+      {
+        "code": "6201",
+        "name": "天津河西区",
+        "fullname": "天津市河西区",
+        "quanpin": "tianjinshihexiqu",
+        "pinyin": "TJSHXQ"
+      },
+      {
+        "code": "120106",
+        "name": "天津红桥区",
+        "fullname": "天津市红桥区",
+        "quanpin": "tianjinshihongqiaoqu",
+        "pinyin": "TJSHQQ"
+      },
+      {
+        "code": "120223",
+        "name": "天津静海县",
+        "fullname": "天津市静海县",
+        "quanpin": "tianjinshijinghaixian",
+        "pinyin": "TJSJHX"
+      },
+      {
+        "code": "120112",
+        "name": "天津津南区",
+        "fullname": "天津市津南区",
+        "quanpin": "tianjinshijinnanqu",
+        "pinyin": "TJSJNQ"
+      },
+      {
+        "code": "120225",
+        "name": "天津蓟县",
+        "fullname": "天津市蓟县",
+        "quanpin": "tianjinshijixian",
+        "pinyin": "TJSJX"
+      },
+      {
+        "code": "120104",
+        "name": "天津南开区",
+        "fullname": "天津市南开区",
+        "quanpin": "tianjinshinankaiqu",
+        "pinyin": "TJSNKQ"
+      },
+      {
+        "code": "120221",
+        "name": "天津宁河县",
+        "fullname": "天津市宁河县",
+        "quanpin": "tianjinshininghexian",
+        "pinyin": "TJSNHX"
+      },
+      {
+        "code": "120107",
+        "name": "天津塘沽区",
+        "fullname": "天津市塘沽区",
+        "quanpin": "tianjinshitangguqu",
+        "pinyin": "TJSTGQ"
+      },
+      {
+        "code": "120114",
+        "name": "天津武清区",
+        "fullname": "天津市武清区",
+        "quanpin": "tianjinshiwuqingqu",
+        "pinyin": "TJSWQQ"
+      },
+      {
+        "code": "120111",
+        "name": "天津西青区",
+        "fullname": "天津市西青区",
+        "quanpin": "tianjinshixiqingqu",
+        "pinyin": "TJSXQQ"
+      },
+      {
+        "code": "429006",
+        "name": "天门",
+        "fullname": "天门市",
+        "quanpin": "tianmenshi",
+        "pinyin": "TMS"
+      },
+      {
+        "code": "620500",
+        "name": "天水",
+        "fullname": "天水市",
+        "quanpin": "tianshuishi",
+        "pinyin": "TSS"
+      },
+      {
+        "code": "211200",
+        "name": "铁岭",
+        "fullname": "铁岭市",
+        "quanpin": "tielingshi",
+        "pinyin": "TLS"
+      },
+      {
+        "code": "230781",
+        "name": "铁力",
+        "fullname": "铁力市",
+        "quanpin": "tielishi",
+        "pinyin": "TLS"
+      },
+      {
+        "code": "340881",
+        "name": "桐城",
+        "fullname": "桐城市",
+        "quanpin": "tongchengshi",
+        "pinyin": "TCS"
+      },
+      {
+        "code": "610200",
+        "name": "铜川",
+        "fullname": "铜川市",
+        "quanpin": "tongchuanshi",
+        "pinyin": "TCS"
+      },
+      {
+        "code": "220500",
+        "name": "通化",
+        "fullname": "通化市",
+        "quanpin": "tonghuashi",
+        "pinyin": "THS"
+      },
+      {
+        "code": "230881",
+        "name": "同江",
+        "fullname": "同江市",
+        "quanpin": "tongjiangshi",
+        "pinyin": "TJS"
+      },
+      {
+        "code": "150500",
+        "name": "通辽",
+        "fullname": "通辽市",
+        "quanpin": "tongliaoshi",
+        "pinyin": "TLS"
+      },
+      {
+        "code": "340700",
+        "name": "铜陵",
+        "fullname": "铜陵市",
+        "quanpin": "tonglingshi",
+        "pinyin": "TLS"
+      },
+      {
+        "code": "520600",
+        "name": "铜仁",
+        "fullname": "铜仁市",
+        "quanpin": "tongrenshi",
+        "pinyin": "trs"
+      },
+      {
+        "code": "330483",
+        "name": "桐乡",
+        "fullname": "桐乡市",
+        "quanpin": "tongxiangshi",
+        "pinyin": "TXS"
+      },
+      {
+        "code": "320683",
+        "name": "通州",
+        "fullname": "通州市",
+        "quanpin": "tongzhoushi",
+        "pinyin": "TZS"
+      },
+      {
+        "code": "652101",
+        "name": "吐鲁番",
+        "fullname": "吐鲁番市",
+        "quanpin": "tulufanshi",
+        "pinyin": "TLFS"
+      },
+      {
+        "code": "222402",
+        "name": "图们",
+        "fullname": "图们市",
+        "quanpin": "tumenshi",
+        "pinyin": "TMS"
+      },
+      {
+        "code": "659003",
+        "name": "图木舒克",
+        "fullname": "图木舒克市",
+        "quanpin": "tumushukeshi",
+        "pinyin": "TMSKS"
+      }],
+      "W":[{
+        "code": "210281",
+        "name": "瓦房店",
+        "fullname": "瓦房店市",
+        "quanpin": "wafangdianshi",
+        "pinyin": "WFDS"
+      },
+      {
+        "code": "469006",
+        "name": "万宁",
+        "fullname": "万宁市",
+        "quanpin": "wanningshi",
+        "pinyin": "WNS"
+      },
+      {
+        "code": "511781",
+        "name": "万源",
+        "fullname": "万源市",
+        "quanpin": "wanyuanshi",
+        "pinyin": "WYS"
+      },
+      {
+        "code": "370700",
+        "name": "潍坊",
+        "fullname": "潍坊市",
+        "quanpin": "weifangshi",
+        "pinyin": "WFS"
+      },
+      {
+        "code": "371000",
+        "name": "威海",
+        "fullname": "威海市",
+        "quanpin": "weihaishi",
+        "pinyin": "WHS"
+      },
+      {
+        "code": "410781",
+        "name": "卫辉",
+        "fullname": "卫辉市",
+        "quanpin": "weihuishi",
+        "pinyin": "WHS"
+      },
+      {
+        "code": "610500",
+        "name": "渭南",
+        "fullname": "渭南市",
+        "quanpin": "weinanshi",
+        "pinyin": "WNS"
+      },
+      {
+        "code": "469005",
+        "name": "文昌",
+        "fullname": "文昌市",
+        "quanpin": "wenchangshi",
+        "pinyin": "WCS"
+      },
+      {
+        "code": "371081",
+        "name": "文登",
+        "fullname": "文登市",
+        "quanpin": "wendengshi",
+        "pinyin": "WDS"
+      },
+      {
+        "code": "331081",
+        "name": "温岭",
+        "fullname": "温岭市",
+        "quanpin": "wenlingshi",
+        "pinyin": "WLS"
+      },
+      {
+        "code": "532600",
+        "name": "文山壮族苗族自治州",
+        "fullname": "文山壮族苗族自治州",
+        "quanpin": "wenshanzhuangzumiaoz",
+        "pinyin": "WSZZMZZZZ"
+      },
+      {
+        "code": "330300",
+        "name": "温州",
+        "fullname": "温州市",
+        "quanpin": "wenzhoushi",
+        "pinyin": "WZS"
+      },
+      {
+        "code": "130481",
+        "name": "武安",
+        "fullname": "武安市",
+        "quanpin": "wuanshi",
+        "pinyin": "WAS"
+      },
+      {
+        "code": "230184",
+        "name": "五常",
+        "fullname": "五常市",
+        "quanpin": "wuchangshi",
+        "pinyin": "WCS"
+      },
+      {
+        "code": "440883",
+        "name": "吴川",
+        "fullname": "吴川市",
+        "quanpin": "wuchuanshi",
+        "pinyin": "WCS"
+      },
+      {
+        "code": "231182",
+        "name": "五大连池",
+        "fullname": "五大连池市",
+        "quanpin": "wudalianchishi",
+        "pinyin": "WDLCS"
+      },
+      {
+        "code": "430581",
+        "name": "武冈",
+        "fullname": "武冈市",
+        "quanpin": "wugangshi",
+        "pinyin": "WGS"
+      },
+      {
+        "code": "410481",
+        "name": "舞钢",
+        "fullname": "舞钢市",
+        "quanpin": "wugangshi",
+        "pinyin": "WGS"
+      },
+      {
+        "code": "150300",
+        "name": "乌海",
+        "fullname": "乌海市",
+        "quanpin": "wuhaishi",
+        "pinyin": "WHS"
+      },
+      {
+        "code": "420100",
+        "name": "武汉",
+        "fullname": "武汉市",
+        "quanpin": "wuhanshi",
+        "pinyin": "WHS"
+      },
+      {
+        "code": "340200",
+        "name": "芜湖",
+        "fullname": "芜湖市",
+        "quanpin": "wuhushi",
+        "pinyin": "WHS"
+      },
+      {
+        "code": "320584",
+        "name": "吴江",
+        "fullname": "吴江市",
+        "quanpin": "wujiangshi",
+        "pinyin": "WJS"
+      },
+      {
+        "code": "659004",
+        "name": "五家渠",
+        "fullname": "五家渠市",
+        "quanpin": "wujiaqushi",
+        "pinyin": "WJQS"
+      },
+      {
+        "code": "150900",
+        "name": "乌兰察布",
+        "fullname": "乌兰察布市",
+        "quanpin": "wulanchabushi",
+        "pinyin": "WLCBS"
+      },
+      {
+        "code": "152201",
+        "name": "乌兰浩特",
+        "fullname": "乌兰浩特市",
+        "quanpin": "wulanhaoteshi",
+        "pinyin": "WLHTS"
+      },
+      {
+        "code": "650100",
+        "name": "乌鲁木齐",
+        "fullname": "乌鲁木齐市",
+        "quanpin": "wulumuqishi",
+        "pinyin": "WLMQS"
+      },
+      {
+        "code": "654202",
+        "name": "乌苏",
+        "fullname": "乌苏市",
+        "quanpin": "wusushi",
+        "pinyin": "WSS"
+      },
+      {
+        "code": "620600",
+        "name": "武威",
+        "fullname": "武威市",
+        "quanpin": "wuweishi",
+        "pinyin": "WWS"
+      },
+      {
+        "code": "320200",
+        "name": "无锡",
+        "fullname": "无锡市",
+        "quanpin": "wuxishi",
+        "pinyin": "WXS"
+      },
+      {
+        "code": "421182",
+        "name": "武穴",
+        "fullname": "武穴市",
+        "quanpin": "wuxueshi",
+        "pinyin": "WXS"
+      },
+      {
+        "code": "350782",
+        "name": "武夷山",
+        "fullname": "武夷山市",
+        "quanpin": "wuyishanshi",
+        "pinyin": "WYSS"
+      },
+      {
+        "code": "469001",
+        "name": "五指山",
+        "fullname": "五指山市",
+        "quanpin": "wuzhishanshi",
+        "pinyin": "WZSS"
+      },
+      {
+        "code": "640300",
+        "name": "吴忠",
+        "fullname": "吴忠市",
+        "quanpin": "wuzhongshi",
+        "pinyin": "WZS"
+      },
+      {
+        "code": "450400",
+        "name": "梧州",
+        "fullname": "梧州市",
+        "quanpin": "wuzhoushi",
+        "pinyin": "WZS"
+      }],
+      "X":[{
+        "code": "350200",
+        "name": "厦门",
+        "fullname": "厦门市",
+        "quanpin": "xiamenshi",
+        "pinyin": "XMS"
+      },
+      {
+        "code": "411681",
+        "name": "项城",
+        "fullname": "项城市",
+        "quanpin": "xiangchengshi",
+        "pinyin": "XCS"
+      },
+      {
+        "code": "420600",
+        "name": "襄阳",
+        "fullname": "襄阳市",
+        "quanpin": "xiangyangshi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "430300",
+        "name": "湘潭",
+        "fullname": "湘潭市",
+        "quanpin": "xiangtanshi",
+        "pinyin": "XTS"
+      },
+      {
+        "code": "430381",
+        "name": "湘乡",
+        "fullname": "湘乡市",
+        "quanpin": "xiangxiangshi",
+        "pinyin": "XXS"
+      },
+      {
+        "code": "433100",
+        "name": "湘西土家族苗族自治州",
+        "fullname": "湘西土家族苗族自治州",
+        "quanpin": "xiangxitujiazumiaozu",
+        "pinyin": "XXTJZMZZZZ"
+      },
+      {
+        "code": "421200",
+        "name": "咸宁",
+        "fullname": "咸宁市",
+        "quanpin": "xianningshi",
+        "pinyin": "XNS"
+      },
+      {
+        "code": "610100",
+        "name": "西安",
+        "fullname": "西安市",
+        "quanpin": "xianshi",
+        "pinyin": "XAS"
+      },
+      {
+        "code": "429004",
+        "name": "仙桃",
+        "fullname": "仙桃市",
+        "quanpin": "xiantaoshi",
+        "pinyin": "XTS"
+      },
+      {
+        "code": "610400",
+        "name": "咸阳",
+        "fullname": "咸阳市",
+        "quanpin": "xianyangshi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "420900",
+        "name": "孝感",
+        "fullname": "孝感市",
+        "quanpin": "xiaoganshi",
+        "pinyin": "XGS"
+      },
+      {
+        "code": "141181",
+        "name": "孝义",
+        "fullname": "孝义市",
+        "quanpin": "xiaoyishi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "513401",
+        "name": "西昌",
+        "fullname": "西昌市",
+        "quanpin": "xichangshi",
+        "pinyin": "XCS"
+      },
+      {
+        "code": "152500",
+        "name": "锡林郭勒盟",
+        "fullname": "锡林郭勒盟",
+        "quanpin": "xilinguolemeng",
+        "pinyin": "XLGLM"
+      },
+      {
+        "code": "152502",
+        "name": "锡林浩特",
+        "fullname": "锡林浩特市",
+        "quanpin": "xilinhaoteshi",
+        "pinyin": "XLHTS"
+      },
+      {
+        "code": "152200",
+        "name": "兴安盟",
+        "fullname": "兴安盟",
+        "quanpin": "xinganmeng",
+        "pinyin": "XAM"
+      },
+      {
+        "code": "211481",
+        "name": "兴城",
+        "fullname": "兴城市",
+        "quanpin": "xingchengshi",
+        "pinyin": "XCS"
+      },
+      {
+        "code": "321281",
+        "name": "兴化",
+        "fullname": "兴化市",
+        "quanpin": "xinghuashi",
+        "pinyin": "XHS"
+      },
+      {
+        "code": "441481",
+        "name": "兴宁",
+        "fullname": "兴宁市",
+        "quanpin": "xingningshi",
+        "pinyin": "XNS"
+      },
+      {
+        "code": "610481",
+        "name": "兴平",
+        "fullname": "兴平市",
+        "quanpin": "xingpingshi",
+        "pinyin": "XPS"
+      },
+      {
+        "code": "130500",
+        "name": "邢台",
+        "fullname": "邢台市",
+        "quanpin": "xingtaishi",
+        "pinyin": "XTS"
+      },
+      {
+        "code": "522301",
+        "name": "兴义",
+        "fullname": "兴义市",
+        "quanpin": "xingyishi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "630100",
+        "name": "西宁",
+        "fullname": "西宁市",
+        "quanpin": "xiningshi",
+        "pinyin": "XNS"
+      },
+      {
+        "code": "130181",
+        "name": "辛集",
+        "fullname": "辛集市",
+        "quanpin": "xinjishi",
+        "pinyin": "XJS"
+      },
+      {
+        "code": "130184",
+        "name": "新乐",
+        "fullname": "新乐市",
+        "quanpin": "xinleshi",
+        "pinyin": "XLS"
+      },
+      {
+        "code": "210181",
+        "name": "新民",
+        "fullname": "新民市",
+        "quanpin": "xinminshi",
+        "pinyin": "XMS"
+      },
+      {
+        "code": "410183",
+        "name": "新密",
+        "fullname": "新密市",
+        "quanpin": "xinmishi",
+        "pinyin": "XMS"
+      },
+      {
+        "code": "370982",
+        "name": "新泰",
+        "fullname": "新泰市",
+        "quanpin": "xintaishi",
+        "pinyin": "XTS"
+      },
+      {
+        "code": "410700",
+        "name": "新乡",
+        "fullname": "新乡市",
+        "quanpin": "xinxiangshi",
+        "pinyin": "XXS"
+      },
+      {
+        "code": "411500",
+        "name": "信阳",
+        "fullname": "信阳市",
+        "quanpin": "xinyangshi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "440983",
+        "name": "信宜",
+        "fullname": "信宜市",
+        "quanpin": "xinyishi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "320381",
+        "name": "新沂",
+        "fullname": "新沂市",
+        "quanpin": "xinyishi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "360500",
+        "name": "新余",
+        "fullname": "新余市",
+        "quanpin": "xinyushi",
+        "pinyin": "XYS"
+      },
+      {
+        "code": "410184",
+        "name": "新郑",
+        "fullname": "新郑市",
+        "quanpin": "xinzhengshi",
+        "pinyin": "XZS"
+      },
+      {
+        "code": "140900",
+        "name": "忻州",
+        "fullname": "忻州市",
+        "quanpin": "xinzhoushi",
+        "pinyin": "XZS"
+      },
+      {
+        "code": "532800",
+        "name": "西双版纳傣族自治州",
+        "fullname": "西双版纳傣族自治州",
+        "quanpin": "xishuangbannadaizuzi",
+        "pinyin": "XSBNDZZZZ"
+      },
+      {
+        "code": "341800",
+        "name": "宣城",
+        "fullname": "宣城市",
+        "quanpin": "xuanchengshi",
+        "pinyin": "XCS"
+      },
+      {
+        "code": "530381",
+        "name": "宣威",
+        "fullname": "宣威市",
+        "quanpin": "xuanweishi",
+        "pinyin": "XWS"
+      },
+      {
+        "code": "411000",
+        "name": "许昌",
+        "fullname": "许昌市",
+        "quanpin": "xuchangshi",
+        "pinyin": "XCS"
+      },
+      {
+        "code": "320300",
+        "name": "徐州",
+        "fullname": "徐州市",
+        "quanpin": "xuzhoushi",
+        "pinyin": "XZS"
+      }],
+      "Y":[{
+        "code": "511800",
+        "name": "雅安",
+        "fullname": "雅安市",
+        "quanpin": "yaanshi",
+        "pinyin": "YAS"
+      },
+      {
+        "code": "150782",
+        "name": "牙克石",
+        "fullname": "牙克石市",
+        "quanpin": "yakeshishi",
+        "pinyin": "YKSS"
+      },
+      {
+        "code": "610600",
+        "name": "延安",
+        "fullname": "延安市",
+        "quanpin": "yananshi",
+        "pinyin": "YAS"
+      },
+      {
+        "code": "222400",
+        "name": "延边朝鲜族自治州",
+        "fullname": "延边朝鲜族自治州",
+        "quanpin": "yanbianchaoxianzuziz",
+        "pinyin": "YBCXZZZZ"
+      },
+      {
+        "code": "320900",
+        "name": "盐城",
+        "fullname": "盐城市",
+        "quanpin": "yanchengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "441781",
+        "name": "阳春",
+        "fullname": "阳春市",
+        "quanpin": "yangchunshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "441700",
+        "name": "阳江",
+        "fullname": "阳江市",
+        "quanpin": "yangjiangshi",
+        "pinyin": "YJS"
+      },
+      {
+        "code": "140300",
+        "name": "阳泉",
+        "fullname": "阳泉市",
+        "quanpin": "yangquanshi",
+        "pinyin": "YQS"
+      },
+      {
+        "code": "321182",
+        "name": "扬中",
+        "fullname": "扬中市",
+        "quanpin": "yangzhongshi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "321000",
+        "name": "扬州",
+        "fullname": "扬州市",
+        "quanpin": "yangzhoushi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "222401",
+        "name": "延吉",
+        "fullname": "延吉市",
+        "quanpin": "yanjishi",
+        "pinyin": "YJS"
+      },
+      {
+        "code": "410381",
+        "name": "偃师",
+        "fullname": "偃师市",
+        "quanpin": "yanshishi",
+        "pinyin": "YSS"
+      },
+      {
+        "code": "370600",
+        "name": "烟台",
+        "fullname": "烟台市",
+        "quanpin": "yantaishi",
+        "pinyin": "YTS"
+      },
+      {
+        "code": "370882",
+        "name": "兖州",
+        "fullname": "兖州市",
+        "quanpin": "yanzhoushi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "511500",
+        "name": "宜宾",
+        "fullname": "宜宾市",
+        "quanpin": "yibinshi",
+        "pinyin": "YBS"
+      },
+      {
+        "code": "420500",
+        "name": "宜昌",
+        "fullname": "宜昌市",
+        "quanpin": "yichangshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "420684",
+        "name": "宜城",
+        "fullname": "宜城市",
+        "quanpin": "yichengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "230700",
+        "name": "伊春",
+        "fullname": "伊春市",
+        "quanpin": "yichunshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "360900",
+        "name": "宜春",
+        "fullname": "宜春市",
+        "quanpin": "yichunshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "420581",
+        "name": "宜都",
+        "fullname": "宜都市",
+        "quanpin": "yidushi",
+        "pinyin": "YDS"
+      },
+      {
+        "code": "654000",
+        "name": "伊犁哈萨克自治州",
+        "fullname": "伊犁哈萨克自治州",
+        "quanpin": "yilihasakezizhizhou",
+        "pinyin": "YLHSKZZZ"
+      },
+      {
+        "code": "411281",
+        "name": "义马",
+        "fullname": "义马市",
+        "quanpin": "yimashi",
+        "pinyin": "YMS"
+      },
+      {
+        "code": "640100",
+        "name": "银川",
+        "fullname": "银川市",
+        "quanpin": "yinchuanshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "420981",
+        "name": "应城",
+        "fullname": "应城市",
+        "quanpin": "yingchengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "441881",
+        "name": "英德",
+        "fullname": "英德市",
+        "quanpin": "yingdeshi",
+        "pinyin": "YDS"
+      },
+      {
+        "code": "210800",
+        "name": "营口",
+        "fullname": "营口市",
+        "quanpin": "yingkoushi",
+        "pinyin": "YKS"
+      },
+      {
+        "code": "360600",
+        "name": "鹰潭",
+        "fullname": "鹰潭市",
+        "quanpin": "yingtanshi",
+        "pinyin": "YTS"
+      },
+      {
+        "code": "410182",
+        "name": "荥阳",
+        "fullname": "荥阳市",
+        "quanpin": "yingyangshi",
+        "pinyin": "YYS"
+      },
+      {
+        "code": "654002",
+        "name": "伊宁",
+        "fullname": "伊宁市",
+        "quanpin": "yiningshi",
+        "pinyin": "YNS"
+      },
+      {
+        "code": "330782",
+        "name": "义乌",
+        "fullname": "义乌市",
+        "quanpin": "yiwushi",
+        "pinyin": "YWS"
+      },
+      {
+        "code": "320282",
+        "name": "宜兴",
+        "fullname": "宜兴市",
+        "quanpin": "yixingshi",
+        "pinyin": "YXS"
+      },
+      {
+        "code": "430900",
+        "name": "益阳",
+        "fullname": "益阳市",
+        "quanpin": "yiyangshi",
+        "pinyin": "YYS"
+      },
+      {
+        "code": "321081",
+        "name": "仪征",
+        "fullname": "仪征市",
+        "quanpin": "yizhengshi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "451281",
+        "name": "宜州",
+        "fullname": "宜州市",
+        "quanpin": "yizhoushi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "350481",
+        "name": "永安",
+        "fullname": "永安市",
+        "quanpin": "yonganshi",
+        "pinyin": "YAS"
+      },
+      {
+        "code": "411481",
+        "name": "永城",
+        "fullname": "永城市",
+        "quanpin": "yongchengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "140881",
+        "name": "永济",
+        "fullname": "永济市",
+        "quanpin": "yongjishi",
+        "pinyin": "YJS"
+      },
+      {
+        "code": "330784",
+        "name": "永康",
+        "fullname": "永康市",
+        "quanpin": "yongkangshi",
+        "pinyin": "YKS"
+      },
+      {
+        "code": "431100",
+        "name": "永州",
+        "fullname": "永州市",
+        "quanpin": "yongzhoushi",
+        "pinyin": "YZS"
+      },
+      {
+        "code": "430981",
+        "name": "沅江",
+        "fullname": "沅江市",
+        "quanpin": "yuanjiangshi",
+        "pinyin": "YJS"
+      },
+      {
+        "code": "140981",
+        "name": "原平",
+        "fullname": "原平市",
+        "quanpin": "yuanpingshi",
+        "pinyin": "YPS"
+      },
+      {
+        "code": "371482",
+        "name": "禹城",
+        "fullname": "禹城市",
+        "quanpin": "yuchengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "430600",
+        "name": "岳阳",
+        "fullname": "岳阳市",
+        "quanpin": "yueyangshi",
+        "pinyin": "YYS"
+      },
+      {
+        "code": "450900",
+        "name": "玉林",
+        "fullname": "玉林市",
+        "quanpin": "yulinshi",
+        "pinyin": "YLS"
+      },
+      {
+        "code": "610800",
+        "name": "榆林",
+        "fullname": "榆林市",
+        "quanpin": "yulinshi",
+        "pinyin": "YLS"
+      },
+      {
+        "code": "620981",
+        "name": "玉门",
+        "fullname": "玉门市",
+        "quanpin": "yumenshi",
+        "pinyin": "YMS"
+      },
+      {
+        "code": "140800",
+        "name": "运城",
+        "fullname": "运城市",
+        "quanpin": "yunchengshi",
+        "pinyin": "YCS"
+      },
+      {
+        "code": "445300",
+        "name": "云浮",
+        "fullname": "云浮市",
+        "quanpin": "yunfushi",
+        "pinyin": "YFS"
+      },
+      {
+        "code": "220182",
+        "name": "榆树",
+        "fullname": "榆树市",
+        "quanpin": "yushushi",
+        "pinyin": "YSS"
+      },
+      {
+        "code": "632700",
+        "name": "玉树藏族自治州",
+        "fullname": "玉树藏族自治州",
+        "quanpin": "yushuzangzuzizhizhou",
+        "pinyin": "YSZZZZZ"
+      },
+      {
+        "code": "530400",
+        "name": "玉溪",
+        "fullname": "玉溪市",
+        "quanpin": "yuxishi",
+        "pinyin": "YXS"
+      },
+      {
+        "code": "330281",
+        "name": "余姚",
+        "fullname": "余姚市",
+        "quanpin": "yuyaoshi",
+        "pinyin": "YYS"
+      },
+      {
+        "code": "411081",
+        "name": "禹州",
+        "fullname": "禹州市",
+        "quanpin": "yuzhoushi",
+        "pinyin": "YZS"
+      }],
+      "Z":[{
+        "code": "420683",
+        "name": "枣阳",
+        "fullname": "枣阳市",
+        "quanpin": "zaoyangshi",
+        "pinyin": "ZYS"
+      },
+      {
+        "code": "370400",
+        "name": "枣庄",
+        "fullname": "枣庄市",
+        "quanpin": "zaozhuangshi",
+        "pinyin": "ZZS"
+      },
+      {
+        "code": "440183",
+        "name": "增城",
+        "fullname": "增城市",
+        "quanpin": "zengchengshi",
+        "pinyin": "ZCS"
+      },
+      {
+        "code": "150783",
+        "name": "扎兰屯",
+        "fullname": "扎兰屯市",
+        "quanpin": "zhalantunshi",
+        "pinyin": "ZLTS"
+      },
+      {
+        "code": "320582",
+        "name": "张家港",
+        "fullname": "张家港市",
+        "quanpin": "zhangjiagangshi",
+        "pinyin": "ZJGS"
+      },
+      {
+        "code": "430800",
+        "name": "张家界",
+        "fullname": "张家界市",
+        "quanpin": "zhangjiajieshi",
+        "pinyin": "ZJJS"
+      },
+      {
+        "code": "130700",
+        "name": "张家口",
+        "fullname": "张家口市",
+        "quanpin": "zhangjiakoushi",
+        "pinyin": "ZJKS"
+      },
+      {
+        "code": "350881",
+        "name": "漳平",
+        "fullname": "漳平市",
+        "quanpin": "zhangpingshi",
+        "pinyin": "ZPS"
+      },
+      {
+        "code": "370181",
+        "name": "章丘",
+        "fullname": "章丘市",
+        "quanpin": "zhangqiushi",
+        "pinyin": "ZQS"
+      },
+      {
+        "code": "360982",
+        "name": "樟树",
+        "fullname": "樟树市",
+        "quanpin": "zhangshushi",
+        "pinyin": "ZSS"
+      },
+      {
+        "code": "620700",
+        "name": "张掖",
+        "fullname": "张掖市",
+        "quanpin": "zhangyeshi",
+        "pinyin": "ZYS"
+      },
+      {
+        "code": "350600",
+        "name": "漳州",
+        "fullname": "漳州市",
+        "quanpin": "zhangzhoushi",
+        "pinyin": "ZZS"
+      },
+      {
+        "code": "440800",
+        "name": "湛江",
+        "fullname": "湛江市",
+        "quanpin": "zhanjiangshi",
+        "pinyin": "ZJS"
+      },
+      {
+        "code": "231282",
+        "name": "肇东",
+        "fullname": "肇东市",
+        "quanpin": "zhaodongshi",
+        "pinyin": "ZDS"
+      },
+      {
+        "code": "441200",
+        "name": "肇庆",
+        "fullname": "肇庆市",
+        "quanpin": "zhaoqingshi",
+        "pinyin": "ZQS"
+      },
+      {
+        "code": "530600",
+        "name": "昭通",
+        "fullname": "昭通市",
+        "quanpin": "zhaotongshi",
+        "pinyin": "ZTS"
+      },
+      {
+        "code": "211300",
+        "name": "朝阳",
+        "fullname": "朝阳市",
+        "quanpin": "zhaoyangshi",
+        "pinyin": "ZYS"
+      },
+      {
+        "code": "370685",
+        "name": "招远",
+        "fullname": "招远市",
+        "quanpin": "zhaoyuanshi",
+        "pinyin": "ZYS"
+      },
+      {
+        "code": "410100",
+        "name": "郑州",
+        "fullname": "郑州市",
+        "quanpin": "zhengzhoushi",
+        "pinyin": "ZZS"
+      },
+      {
+        "code": "321100",
+        "name": "镇江",
+        "fullname": "镇江市",
+        "quanpin": "zhenjiangshi",
+        "pinyin": "ZJS"
+      },
+      {
+        "code": "530825",
+        "name": "镇沅彝族哈尼族拉祜族自治",
+        "fullname": "镇沅彝族哈尼族拉祜族自治",
+        "quanpin": "zhenyuanyizuhanizula",
+        "pinyin": "ZYYZHNZLHZZZ"
+      },
+      {
+        "code": "420583",
+        "name": "枝江",
+        "fullname": "枝江市",
+        "quanpin": "zhijiangshi",
+        "pinyin": "ZJS"
+      },
+      {
+        "code": "100000",
+        "name": "中华人民共和国",
+        "fullname": "中华人民共和国",
+        "quanpin": "zhonghuarenmingonghe",
+        "pinyin": "ZHRMGHG"
+      },
+      {
+        "code": "442000",
+        "name": "中山",
+        "fullname": "中山市",
+        "quanpin": "zhongshanshi",
+        "pinyin": "ZSS"
+      },
+      {
+        "code": "640500",
+        "name": "中卫",
+        "fullname": "中卫市",
+        "quanpin": "zhongweishi",
+        "pinyin": "ZWS"
+      },
+      {
+        "code": "420881",
+        "name": "钟祥",
+        "fullname": "钟祥市",
+        "quanpin": "zhongxiangshi",
+        "pinyin": "ZXS"
+      },
+      {
+        "code": "411600",
+        "name": "周口",
+        "fullname": "周口市",
+        "quanpin": "zhoukoushi",
+        "pinyin": "ZKS"
+      },
+      {
+        "code": "330900",
+        "name": "舟山",
+        "fullname": "舟山市",
+        "quanpin": "zhoushanshi",
+        "pinyin": "ZSS"
+      },
+      {
+        "code": "210283",
+        "name": "庄河",
+        "fullname": "庄河市",
+        "quanpin": "zhuangheshi",
+        "pinyin": "ZHS"
+      },
+      {
+        "code": "370782",
+        "name": "诸城",
+        "fullname": "诸城市",
+        "quanpin": "zhuchengshi",
+        "pinyin": "ZCS"
+      },
+      {
+        "code": "440400",
+        "name": "珠海",
+        "fullname": "珠海市",
+        "quanpin": "zhuhaishi",
+        "pinyin": "ZHS"
+      },
+      {
+        "code": "330681",
+        "name": "诸暨",
+        "fullname": "诸暨市",
+        "quanpin": "zhujishi",
+        "pinyin": "ZJS"
+      },
+      {
+        "code": "411700",
+        "name": "驻马店",
+        "fullname": "驻马店市",
+        "quanpin": "zhumadianshi",
+        "pinyin": "ZMDS"
+      },
+      {
+        "code": "130681",
+        "name": "涿州",
+        "fullname": "涿州市",
+        "quanpin": "zhuozhoushi",
+        "pinyin": "ZZS"
+      },
+      {
+        "code": "430200",
+        "name": "株洲",
+        "fullname": "株洲市",
+        "quanpin": "zhuzhoushi",
+        "pinyin": "ZZS"
+      },
+      {
+        "code": "370300",
+        "name": "淄博",
+        "fullname": "淄博市",
+        "quanpin": "ziboshi",
+        "pinyin": "ZBS"
+      },
+      {
+        "code": "510300",
+        "name": "自贡",
+        "fullname": "自贡市",
+        "quanpin": "zigongshi",
+        "pinyin": "ZGS"
+      },
+      {
+        "code": "431081",
+        "name": "资兴",
+        "fullname": "资兴市",
+        "quanpin": "zixingshi",
+        "pinyin": "ZXS"
+      },
+      {
+        "code": "512000",
+        "name": "资阳",
+        "fullname": "资阳市",
+        "quanpin": "ziyangshi",
+        "pinyin": "ZYS"
+      },
+      {
+        "code": "370883",
+        "name": "邹城",
+        "fullname": "邹城市",
+        "quanpin": "zouchengshi",
+        "pinyin": "ZCS"
+      },
+      {
+        "code": "130281",
+        "name": "遵化",
+        "fullname": "遵化市",
+        "quanpin": "zunhuashi",
+        "pinyin": "ZHS"
+      },
+      {
+        "code": "520300",
+        "name": "遵义",
+        "fullname": "遵义市",
+        "quanpin": "zunyishi",
+        "pinyin": "ZYS"
+      }]
+}

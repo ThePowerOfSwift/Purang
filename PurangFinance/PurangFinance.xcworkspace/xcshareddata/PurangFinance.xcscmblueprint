@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74514802-8251-48ae-9260-786fc18d9ed3++2011",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "74514802-8251-48ae-9260-786fc18d9ed3++2011" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74514802-8251-48ae-9260-786fc18d9ed3++2011" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FFD814CE-D0F6-48DA-8C1D-3A4EDC823A66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74514802-8251-48ae-9260-786fc18d9ed3++2011" : "ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PurangFinance",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PurangFinance\/PurangFinance.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/msf.purang.com:8088\/svn\/PBQ",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74514802-8251-48ae-9260-786fc18d9ed3++2011"
+    }
+  ]
+}
